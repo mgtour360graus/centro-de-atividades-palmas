@@ -1,0 +1,2761 @@
+{
+  "version": "1.0.0-palmas-20261006",
+  "title": "Centro de Atividades Sesc Palmas",
+  "location": "Palmas · Tocantins",
+  "publicUrl": "https://mgtour360graus.github.io/centro-de-atividades-palmas/",
+  "logo": "skin-palmas/assets/sesc-1x1-colorido.png",
+  "cover": "skin-palmas/assets/capa-centro-de-atividades-palmas.png",
+  "categories": [
+    "Entrada e circulação",
+    "Educação Infantil",
+    "Escola Sesc",
+    "Esporte e atividade física",
+    "Cultura",
+    "Alimentação",
+    "Atendimento e saúde",
+    "Outros ambientes"
+  ],
+  "groups": [
+    {
+      "id": "palmas-vista-aerea",
+      "label": "Vista Aérea",
+      "title": "Vista Aérea",
+      "subtitle": "",
+      "category": "Entrada e circulação",
+      "scenes": [
+        "panorama_0D824A3D_1237_A5A4_41A4_C7A6E2D47046",
+        "panorama_0FD42F19_1237_DB6C_41A7_25199BE4C050",
+        "panorama_0FD784E2_1237_EEDF_4198_829F5527F2B6",
+        "panorama_0FD7837C_1237_ABA4_41AE_E61FD658DF88"
+      ],
+      "entry": "panorama_0D824A3D_1237_A5A4_41A4_C7A6E2D47046",
+      "thumbnail": "media/panorama_0D824A3D_1237_A5A4_41A4_C7A6E2D47046_t.webp"
+    },
+    {
+      "id": "palmas-central-de-relacionamento",
+      "label": "Central de Relacionamento",
+      "title": "Central de Relacionamento",
+      "subtitle": "",
+      "category": "Entrada e circulação",
+      "scenes": [
+        "panorama_00503553_12F5_AFFC_4162_330D83B060B8",
+        "panorama_025BE701_12F5_AB5D_41AE_760ABC332BF3",
+        "panorama_02595E29_12F5_5DAC_41B0_EEF189AAAF61",
+        "panorama_0259449C_12F5_6D64_41B1_940EE517C6E6"
+      ],
+      "entry": "panorama_00503553_12F5_AFFC_4162_330D83B060B8",
+      "thumbnail": "media/panorama_00503553_12F5_AFFC_4162_330D83B060B8_t.webp"
+    },
+    {
+      "id": "palmas-hall-de-entrada",
+      "label": "Hall de Entrada",
+      "title": "Hall de Entrada",
+      "subtitle": "",
+      "category": "Entrada e circulação",
+      "scenes": [
+        "panorama_04E146BA_1216_AAAC_41A6_D6D81B328319",
+        "panorama_010BA79B_1216_EB6C_41AF_81FBDAE40A22",
+        "panorama_010AC520_1216_EF5B_4198_BC37096310AA",
+        "panorama_010B0F26_1216_DBA4_4192_FB98149092E0"
+      ],
+      "entry": "panorama_04E146BA_1216_AAAC_41A6_D6D81B328319",
+      "thumbnail": "media/panorama_04E146BA_1216_AAAC_41A6_D6D81B328319_t.webp"
+    },
+    {
+      "id": "palmas-hall-piso-superior",
+      "label": "Hall Piso Superior",
+      "title": "Hall Piso Superior",
+      "subtitle": "",
+      "category": "Entrada e circulação",
+      "scenes": [
+        "panorama_05B04E54_120E_BDE4_41A5_06B5696D9C70",
+        "panorama_04113D65_120F_5FA5_41A7_8BDB7D4B4E51"
+      ],
+      "entry": "panorama_05B04E54_120E_BDE4_41A5_06B5696D9C70",
+      "thumbnail": "media/panorama_05B04E54_120E_BDE4_41A5_06B5696D9C70_t.webp"
+    },
+    {
+      "id": "palmas-rampa-de-acesso",
+      "label": "Rampa de acesso",
+      "title": "Rampa de acesso",
+      "subtitle": "",
+      "category": "Entrada e circulação",
+      "scenes": [
+        "panorama_0AF8A9F6_1212_A6A4_41AF_BC5F50A149C3"
+      ],
+      "entry": "panorama_0AF8A9F6_1212_A6A4_41AF_BC5F50A149C3",
+      "thumbnail": "media/panorama_0AF8A9F6_1212_A6A4_41AF_BC5F50A149C3_t.webp"
+    },
+    {
+      "id": "palmas-educacao-infantil-acesso-a-escola-e-patio",
+      "label": "Educação Infantil — Acesso à Escola e Pátio",
+      "title": "Educação Infantil",
+      "subtitle": "Acesso à Escola e Pátio",
+      "category": "Educação Infantil",
+      "scenes": [
+        "panorama_01788735_12F3_EBA5_4193_E21546EC5AAA",
+        "panorama_038017CF_12F3_EAE4_4177_179F7229EA74",
+        "panorama_0387E240_12F3_A5DC_41A0_99C5E4369B81",
+        "panorama_0380D0B4_12F3_A6A4_41A5_A068E36ED211",
+        "panorama_0387A78A_12F3_AB6C_4186_3D16841C9A53",
+        "panorama_03870E92_12F3_5D7F_4183_64364A283CBC",
+        "panorama_03871504_12F3_6F64_415A_03BD31B04322",
+        "panorama_0380EB90_12F3_7B7C_41A5_6B04153D10A2",
+        "panorama_0387026C_12F3_65AB_41A1_56966553E083",
+        "panorama_0380B8DE_12F3_66E4_41AF_66F5F7E997F0"
+      ],
+      "entry": "panorama_01788735_12F3_EBA5_4193_E21546EC5AAA",
+      "thumbnail": "media/panorama_01788735_12F3_EBA5_4193_E21546EC5AAA_t.webp"
+    },
+    {
+      "id": "palmas-educacao-infantil-refeitorio",
+      "label": "Educação Infantil — Refeitório",
+      "title": "Educação Infantil",
+      "subtitle": "Refeitório",
+      "category": "Educação Infantil",
+      "scenes": [
+        "panorama_006877CF_1215_AAE4_4196_784F5A2FB960",
+        "panorama_03EF5B0C_1215_DB64_41A4_B64D27BB3F51",
+        "panorama_03E8E6CF_1215_EAE4_41AC_E9CFBE68FA61",
+        "panorama_03E80DFE_1215_FEA4_41A6_C13EB8FD0B55",
+        "panorama_03E8D4A2_1215_ED5F_41B2_91A4E8246EEB",
+        "panorama_03E80B42_1215_DBDC_4192_FCF6012FFA2F"
+      ],
+      "entry": "panorama_006877CF_1215_AAE4_4196_784F5A2FB960",
+      "thumbnail": "media/panorama_006877CF_1215_AAE4_4196_784F5A2FB960_t.webp"
+    },
+    {
+      "id": "palmas-educacao-infantil-sala-01",
+      "label": "Educação Infantil — Sala 01",
+      "title": "Educação Infantil",
+      "subtitle": "Sala 01",
+      "category": "Educação Infantil",
+      "scenes": [
+        "panorama_010F84FA_1212_AEAF_41A0_BD86189FBE72",
+        "panorama_0371D266_1212_A5A7_41A6_BE82EB46BA81",
+        "panorama_037ED9CC_1212_A6E4_41A5_7710D6D11524"
+      ],
+      "entry": "panorama_010F84FA_1212_AEAF_41A0_BD86189FBE72",
+      "thumbnail": "media/panorama_010F84FA_1212_AEAF_41A0_BD86189FBE72_t.webp"
+    },
+    {
+      "id": "palmas-educacao-infantil-sala-02",
+      "label": "Educação Infantil — Sala 02",
+      "title": "Educação Infantil",
+      "subtitle": "Sala 02",
+      "category": "Educação Infantil",
+      "scenes": [
+        "panorama_00D463B6_1217_6AA4_41B0_93AF816CE63B",
+        "panorama_009424E3_1217_AEDC_419F_A801DB9283BD",
+        "panorama_0094C262_1217_A5DC_4187_2B9E595CF2BB"
+      ],
+      "entry": "panorama_00D463B6_1217_6AA4_41B0_93AF816CE63B",
+      "thumbnail": "media/panorama_00D463B6_1217_6AA4_41B0_93AF816CE63B_t.webp"
+    },
+    {
+      "id": "palmas-educacao-infantil-sala-03",
+      "label": "Educação Infantil — Sala 03",
+      "title": "Educação Infantil",
+      "subtitle": "Sala 03",
+      "category": "Educação Infantil",
+      "scenes": [
+        "panorama_06CA27A2_120D_AB5F_4199_2AE264AC252F",
+        "panorama_00C9F666_120D_6DA4_41A1_2B4CB5B70541"
+      ],
+      "entry": "panorama_06CA27A2_120D_AB5F_4199_2AE264AC252F",
+      "thumbnail": "media/panorama_06CA27A2_120D_AB5F_4199_2AE264AC252F_t.webp"
+    },
+    {
+      "id": "palmas-educacao-infantil-sala-04",
+      "label": "Educação Infantil — Sala 04",
+      "title": "Educação Infantil",
+      "subtitle": "Sala 04",
+      "category": "Educação Infantil",
+      "scenes": [
+        "panorama_06F4F6FD_120D_AAA4_4189_5678BB789EF2",
+        "panorama_001795DD_120D_6EE4_41A6_40F260501A2D",
+        "panorama_0019C461_120D_6DDC_4198_B3B4C96707D5"
+      ],
+      "entry": "panorama_06F4F6FD_120D_AAA4_4189_5678BB789EF2",
+      "thumbnail": "media/panorama_06F4F6FD_120D_AAA4_4189_5678BB789EF2_t.webp"
+    },
+    {
+      "id": "palmas-educacao-infantil-sala-05",
+      "label": "Educação Infantil — Sala 05",
+      "title": "Educação Infantil",
+      "subtitle": "Sala 05",
+      "category": "Educação Infantil",
+      "scenes": [
+        "panorama_0181E6CC_1237_6AE4_41A8_82809B1063F1",
+        "panorama_001997DF_1236_AAE4_4164_BC6D3F8392AC"
+      ],
+      "entry": "panorama_0181E6CC_1237_6AE4_41A8_82809B1063F1",
+      "thumbnail": "media/panorama_0181E6CC_1237_6AE4_41A8_82809B1063F1_t.webp"
+    },
+    {
+      "id": "palmas-educacao-infantil-sala-de-artes",
+      "label": "Educação Infantil — Sala de Artes",
+      "title": "Educação Infantil",
+      "subtitle": "Sala de Artes",
+      "category": "Educação Infantil",
+      "scenes": [
+        "panorama_06CA7BC5_123F_DAE4_4193_2E514F9BDBEF",
+        "panorama_01A23259_123F_A5ED_4194_89835AC2C41E",
+        "panorama_01A2C989_123F_A76C_41A3_BAEAFC09644F"
+      ],
+      "entry": "panorama_06CA7BC5_123F_DAE4_4193_2E514F9BDBEF",
+      "thumbnail": "media/panorama_06CA7BC5_123F_DAE4_4193_2E514F9BDBEF_t.webp"
+    },
+    {
+      "id": "palmas-educacao-infantil-sala-dos-professores",
+      "label": "Educação Infantil — Sala dos Professores",
+      "title": "Educação Infantil",
+      "subtitle": "Sala dos Professores",
+      "category": "Educação Infantil",
+      "scenes": [
+        "panorama_01F73296_1237_E564_41AF_8098966D600C",
+        "panorama_018F6B1A_1237_FB6C_41A3_9FE23A2BDDFC",
+        "panorama_018F2249_1237_E5EC_41A3_E596422EE5EF",
+        "panorama_018F68EE_1237_E6A7_4193_882B29DEA00E"
+      ],
+      "entry": "panorama_01F73296_1237_E564_41AF_8098966D600C",
+      "thumbnail": "media/panorama_01F73296_1237_E564_41AF_8098966D600C_t.webp"
+    },
+    {
+      "id": "palmas-escola-sesc-espaco-maker-sala-de-recursos",
+      "label": "Escola Sesc — Espaço Maker / Sala de Recursos",
+      "title": "Escola Sesc",
+      "subtitle": "Espaço Maker / Sala de Recursos",
+      "category": "Escola Sesc",
+      "scenes": [
+        "panorama_07CB0A0B_1233_656C_41A5_E527D7FB005A",
+        "panorama_01126573_1233_6FBD_41A9_ADA942464E76"
+      ],
+      "entry": "panorama_07CB0A0B_1233_656C_41A5_E527D7FB005A",
+      "thumbnail": "media/panorama_07CB0A0B_1233_656C_41A5_E527D7FB005A_t.webp"
+    },
+    {
+      "id": "palmas-escola-sesc-sala-01",
+      "label": "Escola Sesc — Sala 01",
+      "title": "Escola Sesc",
+      "subtitle": "Sala 01",
+      "category": "Escola Sesc",
+      "scenes": [
+        "panorama_067B9725_1235_6BA5_41AB_7306C6737D73",
+        "panorama_06DE78FF_1235_66A4_4167_99ED0C7C487C",
+        "panorama_06DFFF74_1235_5BA4_41AD_1D7692C7D5A2"
+      ],
+      "entry": "panorama_067B9725_1235_6BA5_41AB_7306C6737D73",
+      "thumbnail": "media/panorama_067B9725_1235_6BA5_41AB_7306C6737D73_t.webp"
+    },
+    {
+      "id": "palmas-escola-sesc-sala-02",
+      "label": "Escola Sesc — Sala 02",
+      "title": "Escola Sesc",
+      "subtitle": "Sala 02",
+      "category": "Escola Sesc",
+      "scenes": [
+        "panorama_04DCB8AE_1233_A6A4_41A5_6CF8819EE302",
+        "panorama_066067EE_1233_6AA4_419E_9EC33840A2EF"
+      ],
+      "entry": "panorama_04DCB8AE_1233_A6A4_41A5_6CF8819EE302",
+      "thumbnail": "media/panorama_04DCB8AE_1233_A6A4_41A5_6CF8819EE302_t.webp"
+    },
+    {
+      "id": "palmas-escola-sesc-sala-03",
+      "label": "Escola Sesc — Sala 03",
+      "title": "Escola Sesc",
+      "subtitle": "Sala 03",
+      "category": "Escola Sesc",
+      "scenes": [
+        "panorama_07F99D30_1215_FFBB_41A8_859495A9C59F",
+        "panorama_064BC9B8_1215_E6AB_4153_00B0D240FD68",
+        "panorama_064B906B_1215_A5AC_41A7_7E31C414FADF"
+      ],
+      "entry": "panorama_07F99D30_1215_FFBB_41A8_859495A9C59F",
+      "thumbnail": "media/panorama_07F99D30_1215_FFBB_41A8_859495A9C59F_t.webp"
+    },
+    {
+      "id": "palmas-escola-sesc-sala-04",
+      "label": "Escola Sesc — Sala 04",
+      "title": "Escola Sesc",
+      "subtitle": "Sala 04",
+      "category": "Escola Sesc",
+      "scenes": [
+        "panorama_0415EE8F_1217_7D64_418A_6CADF9347D12",
+        "panorama_07FB6F81_1217_5B5C_4191_0399ACCFA7DF"
+      ],
+      "entry": "panorama_0415EE8F_1217_7D64_418A_6CADF9347D12",
+      "thumbnail": "media/panorama_0415EE8F_1217_7D64_418A_6CADF9347D12_t.webp"
+    },
+    {
+      "id": "palmas-escola-sesc-sala-05",
+      "label": "Escola Sesc — Sala 05",
+      "title": "Escola Sesc",
+      "subtitle": "Sala 05",
+      "category": "Escola Sesc",
+      "scenes": [
+        "panorama_075DBFA2_1212_FB5C_415A_1066E5A7ABB4",
+        "panorama_07BCCA81_1212_E55F_4198_BFF727F26843",
+        "panorama_07BCDCCD_1212_BEE4_419D_4E57CBE2F4CA"
+      ],
+      "entry": "panorama_075DBFA2_1212_FB5C_415A_1066E5A7ABB4",
+      "thumbnail": "media/panorama_075DBFA2_1212_FB5C_415A_1066E5A7ABB4_t.webp"
+    },
+    {
+      "id": "palmas-escola-sesc-sala-06",
+      "label": "Escola Sesc — Sala 06",
+      "title": "Escola Sesc",
+      "subtitle": "Sala 06",
+      "category": "Escola Sesc",
+      "scenes": [
+        "panorama_05D469D3_121D_A6FC_4180_83D0044BA696",
+        "panorama_0754AAD3_121D_7AFC_41AA_9F5CEBD666CD"
+      ],
+      "entry": "panorama_05D469D3_121D_A6FC_4180_83D0044BA696",
+      "thumbnail": "media/panorama_05D469D3_121D_A6FC_4180_83D0044BA696_t.webp"
+    },
+    {
+      "id": "palmas-escola-sesc-sala-07",
+      "label": "Escola Sesc — Sala 07",
+      "title": "Escola Sesc",
+      "subtitle": "Sala 07",
+      "category": "Escola Sesc",
+      "scenes": [
+        "panorama_0445E8D6_1212_E6E4_4125_0DA90923B298",
+        "panorama_0717D352_1212_ABFC_4191_12DD27354442",
+        "panorama_07169A71_1212_A5BC_41B2_157C5757C126"
+      ],
+      "entry": "panorama_0445E8D6_1212_E6E4_4125_0DA90923B298",
+      "thumbnail": "media/panorama_0445E8D6_1212_E6E4_4125_0DA90923B298_t.webp"
+    },
+    {
+      "id": "palmas-escola-sesc-sala-08",
+      "label": "Escola Sesc — Sala 08",
+      "title": "Escola Sesc",
+      "subtitle": "Sala 08",
+      "category": "Escola Sesc",
+      "scenes": [
+        "panorama_0ADCE306_1213_AB64_41A3_2899C8A92A4A",
+        "panorama_047F7D78_1213_5FAC_41A6_C4CB1D1667BF",
+        "panorama_047FF471_1213_6DBD_41A7_CCE7DF37CD79"
+      ],
+      "entry": "panorama_0ADCE306_1213_AB64_41A3_2899C8A92A4A",
+      "thumbnail": "media/panorama_0ADCE306_1213_AB64_41A3_2899C8A92A4A_t.webp"
+    },
+    {
+      "id": "palmas-academia",
+      "label": "Academia",
+      "title": "Academia",
+      "subtitle": "",
+      "category": "Esporte e atividade física",
+      "scenes": [
+        "panorama_03983513_120D_AF7C_41B0_C553835F4244",
+        "panorama_1DF67626_120D_EDA4_419B_08A0F340DF3B",
+        "panorama_1DF6B298_120D_E56C_419B_A290033C3AF2",
+        "panorama_1DF77D72_120D_DFBF_4196_6134D801A380",
+        "panorama_1DF6C409_120D_AD6C_41A9_41846BC900BF",
+        "panorama_1DF71ACF_120D_BAE4_41B0_04FE93A59831",
+        "panorama_1DF6C15D_120D_A7E5_4195_D22DF335E838",
+        "panorama_1DF737F5_120D_AAA4_4180_12AF7DCFC93E",
+        "panorama_1DF6EE67_120D_5DA4_4187_2FA4AA7AD039",
+        "panorama_1DF6F4B8_120D_6EAC_419B_F701D921B48A",
+        "panorama_1DF64BD0_120D_7AFC_418E_E7BEE24B22B5",
+        "panorama_1DF6D211_120D_657D_41A8_F931F5F3FA1E",
+        "panorama_1DF66919_120D_676C_4194_DF237B90389D",
+        "panorama_1DF57100_120E_A75C_417A_58A930CD12A0",
+        "panorama_1DF5B7CC_120E_AAE4_41AB_83F88F3C2DB2",
+        "panorama_1DF58EC8_120E_BAEC_41B1_64072DB7AF66",
+        "panorama_1DF215B3_120E_AEBC_41A8_DE02AE451BAC",
+        "panorama_1DF5AC50_120E_DDFB_4197_84E56C76C7AB"
+      ],
+      "entry": "panorama_03983513_120D_AF7C_41B0_C553835F4244",
+      "thumbnail": "media/panorama_03983513_120D_AF7C_41B0_C553835F4244_t.webp"
+    },
+    {
+      "id": "palmas-campo-de-futebol",
+      "label": "Campo de Futebol",
+      "title": "Campo de Futebol",
+      "subtitle": "",
+      "category": "Esporte e atividade física",
+      "scenes": [
+        "panorama_0073B41A_120E_ED6C_41B0_211BB579AE11",
+        "panorama_02C7DC69_120E_DDAC_4183_FE34F6E2736C",
+        "panorama_02C764FF_120E_AEA4_419C_2D485F1A6666"
+      ],
+      "entry": "panorama_0073B41A_120E_ED6C_41B0_211BB579AE11",
+      "thumbnail": "media/panorama_0073B41A_120E_ED6C_41B0_211BB579AE11_t.webp"
+    },
+    {
+      "id": "palmas-esporte-01",
+      "label": "Esporte 01",
+      "title": "Esporte 01",
+      "subtitle": "",
+      "category": "Esporte e atividade física",
+      "scenes": [
+        "panorama_06FCDEC0_1217_DADB_41A4_355E02C693DA",
+        "panorama_01F5BEF9_1217_FAAD_41AD_64F5A55C125C",
+        "panorama_01F4D59D_1217_EF64_41A4_D763583FC574"
+      ],
+      "entry": "panorama_06FCDEC0_1217_DADB_41A4_355E02C693DA",
+      "thumbnail": "media/panorama_06FCDEC0_1217_DADB_41A4_355E02C693DA_t.webp"
+    },
+    {
+      "id": "palmas-ginasio",
+      "label": "Ginásio",
+      "title": "Ginásio",
+      "subtitle": "",
+      "category": "Esporte e atividade física",
+      "scenes": [
+        "panorama_0658C63F_121D_6DA4_41B1_571E24B5F075",
+        "panorama_012AF50F_121D_AF64_41AE_E35131C4BB6C",
+        "panorama_012B8C43_121D_BDDD_41A6_1EE0D889CC12"
+      ],
+      "entry": "panorama_0658C63F_121D_6DA4_41B1_571E24B5F075",
+      "thumbnail": "media/panorama_0658C63F_121D_6DA4_41B1_571E24B5F075_t.webp"
+    },
+    {
+      "id": "palmas-piscinas",
+      "label": "Piscinas",
+      "title": "Piscinas",
+      "subtitle": "",
+      "category": "Esporte e atividade física",
+      "scenes": [
+        "panorama_0BB66D7F_13F3_5FA4_4175_D371A6A79FD2",
+        "panorama_0B7B4CD8_13F3_7EEC_41AA_600501196062",
+        "panorama_0B7A7832_13F3_65BC_4195_35D4DBE41AF7",
+        "panorama_0B7AE211_13F3_A57C_41A0_6DED590F1906",
+        "panorama_0B7978EF_13F3_A6A5_41A0_4DB71ABFBD8C",
+        "panorama_0B7AF006_13F3_A564_41B0_0D7703E25C76",
+        "panorama_0B7AF741_13F3_ABDC_4187_9377B8DFC00F",
+        "panorama_0B7AFE10_13F3_DD7C_41A6_B0355F37402D"
+      ],
+      "entry": "panorama_0BB66D7F_13F3_5FA4_4175_D371A6A79FD2",
+      "thumbnail": "media/panorama_0BB66D7F_13F3_5FA4_4175_D371A6A79FD2_t.webp"
+    },
+    {
+      "id": "palmas-biblioteca",
+      "label": "Biblioteca",
+      "title": "Biblioteca",
+      "subtitle": "",
+      "category": "Cultura",
+      "scenes": [
+        "panorama_03FA6219_1216_E56D_418A_78E24D966416",
+        "panorama_02F57E1D_1216_FD64_41A6_7C6109C25696",
+        "panorama_02F57D01_1216_DF5C_418D_ED70F1A7F6EB",
+        "panorama_02F6D72A_1216_ABAF_4171_0DD5F7BB2EFC",
+        "panorama_02F6CE95_1216_BD65_41A0_FAECDB23861F",
+        "panorama_02F6E52C_1216_AFA4_41AE_CD00B71D8DA6",
+        "panorama_02F62C85_1215_5D65_4159_9F90E5A933C2",
+        "panorama_02F6A33F_1215_6BA5_419D_6219A0CD258C"
+      ],
+      "entry": "panorama_03FA6219_1216_E56D_418A_78E24D966416",
+      "thumbnail": "media/panorama_03FA6219_1216_E56D_418A_78E24D966416_t.webp"
+    },
+    {
+      "id": "palmas-cine-sesc",
+      "label": "Cine Sesc",
+      "title": "Cine Sesc",
+      "subtitle": "",
+      "category": "Cultura",
+      "scenes": [
+        "panorama_00FB9C6C_12FF_BDAB_41A3_A0903C6B637E",
+        "panorama_025FBDFD_12FF_DEA5_4190_781F5AEB3006",
+        "panorama_02510A33_12FF_E5BD_41AA_239CB3E1886F"
+      ],
+      "entry": "panorama_00FB9C6C_12FF_BDAB_41A3_A0903C6B637E",
+      "thumbnail": "media/panorama_00FB9C6C_12FF_BDAB_41A3_A0903C6B637E_t.webp"
+    },
+    {
+      "id": "palmas-nucleo-de-musica",
+      "label": "Núcleo de Música",
+      "title": "Núcleo de Música",
+      "subtitle": "",
+      "category": "Cultura",
+      "scenes": [
+        "panorama_04F62744_13F7_ABE4_41A3_90B6B911644D",
+        "panorama_04846806_13F7_6567_4166_72AD1DB2FDFA"
+      ],
+      "entry": "panorama_04F62744_13F7_ABE4_41A3_90B6B911644D",
+      "thumbnail": "media/panorama_04F62744_13F7_ABE4_41A3_90B6B911644D_t.webp"
+    },
+    {
+      "id": "palmas-nucleo-de-musica-teclado",
+      "label": "Núcleo de Música — Teclado",
+      "title": "Núcleo de Música",
+      "subtitle": "Teclado",
+      "category": "Cultura",
+      "scenes": [
+        "panorama_048737C8_13F7_6AEB_41A9_78120AB67957",
+        "panorama_04871E86_13F7_5D67_41A4_7B5576B4ADBE"
+      ],
+      "entry": "panorama_048737C8_13F7_6AEB_41A9_78120AB67957",
+      "thumbnail": "media/panorama_048737C8_13F7_6AEB_41A9_78120AB67957_t.webp"
+    },
+    {
+      "id": "palmas-nucleo-de-musica-viola-e-violao",
+      "label": "Núcleo de Música — Viola e violão",
+      "title": "Núcleo de Música",
+      "subtitle": "Viola e violão",
+      "category": "Cultura",
+      "scenes": [
+        "panorama_0486E5A6_13F6_AEA7_4174_FA36C4EA4585",
+        "panorama_04850CBD_13F6_BEA4_419C_EFBD9989BAC0"
+      ],
+      "entry": "panorama_0486E5A6_13F6_AEA7_4174_FA36C4EA4585",
+      "thumbnail": "media/panorama_0486E5A6_13F6_AEA7_4174_FA36C4EA4585_t.webp"
+    },
+    {
+      "id": "palmas-nucleo-de-musica-coral",
+      "label": "Núcleo de Música — Coral",
+      "title": "Núcleo de Música",
+      "subtitle": "Coral",
+      "category": "Cultura",
+      "scenes": [
+        "panorama_0486E3F7_13F6_AAA5_41A0_8B442218C4DC",
+        "panorama_04850B31_13F6_DBBD_41AF_365CA50E25D6",
+        "panorama_04852211_13F6_E57C_4187_0C1D8D9501E5"
+      ],
+      "entry": "panorama_0486E3F7_13F6_AAA5_41A0_8B442218C4DC",
+      "thumbnail": "media/panorama_0486E3F7_13F6_AAA5_41A0_8B442218C4DC_t.webp"
+    },
+    {
+      "id": "palmas-sala-de-video",
+      "label": "Sala de vídeo",
+      "title": "Sala de vídeo",
+      "subtitle": "",
+      "category": "Cultura",
+      "scenes": [
+        "panorama_0F045EE0_121D_BADC_4196_130A6CC28A5C",
+        "panorama_0AF217CF_121D_AAE5_4174_6B548E11E59E"
+      ],
+      "entry": "panorama_0F045EE0_121D_BADC_4196_130A6CC28A5C",
+      "thumbnail": "media/panorama_0F045EE0_121D_BADC_4196_130A6CC28A5C_t.webp"
+    },
+    {
+      "id": "palmas-teatro",
+      "label": "Teatro",
+      "title": "Teatro",
+      "subtitle": "",
+      "category": "Cultura",
+      "scenes": [
+        "panorama_0F5461B5_1215_66A5_41AD_266B578B8B72",
+        "panorama_08A8AF66_1215_5BA7_4163_0C95CCB23517",
+        "panorama_08AEC00F_1212_A564_418B_DED10BFB7838",
+        "panorama_08ADF6C3_1212_AADC_415E_80F2C81878F2",
+        "panorama_08ADBDFF_1212_DEA4_41AC_8363C076A2B7",
+        "panorama_08ADD4CE_1212_EEE7_4177_77B27CB51F93",
+        "panorama_08ADEC21_1212_FD5D_41AC_064ABAC34C15",
+        "panorama_08ADC347_1212_EBE4_419A_2EA497BEDBE0",
+        "panorama_08ADCADF_1212_DAE4_41AE_B64463A87CAA",
+        "panorama_08AE620F_1212_A565_41AE_DD1764BAF76E",
+        "panorama_08AE5922_1212_A75F_41B2_1634BFB0931A"
+      ],
+      "entry": "panorama_0F5461B5_1215_66A5_41AD_266B578B8B72",
+      "thumbnail": "media/panorama_0F5461B5_1215_66A5_41AD_266B578B8B72_t.webp"
+    },
+    {
+      "id": "palmas-lanchonete",
+      "label": "Lanchonete",
+      "title": "Lanchonete",
+      "subtitle": "",
+      "category": "Alimentação",
+      "scenes": [
+        "panorama_0B4ACEB9_13F3_7AAD_418C_2F8D8C1B7310",
+        "panorama_04405FFA_13F3_5AAF_4156_1462494FE74D",
+        "panorama_043E8970_13F2_A7BC_41A5_D54E6B447B94",
+        "panorama_043EAFFE_13F2_BAA7_4193_E18218AADD99",
+        "panorama_043E66E5_13F2_AAA5_41A3_6E7D8BD80C74"
+      ],
+      "entry": "panorama_0B4ACEB9_13F3_7AAD_418C_2F8D8C1B7310",
+      "thumbnail": "media/panorama_0B4ACEB9_13F3_7AAD_418C_2F8D8C1B7310_t.webp"
+    },
+    {
+      "id": "palmas-restaurante",
+      "label": "Restaurante",
+      "title": "Restaurante",
+      "subtitle": "",
+      "category": "Alimentação",
+      "scenes": [
+        "panorama_08625EFB_1215_BAAC_4197_65AB7E953585",
+        "panorama_0A3A1AD9_1215_DAEC_41AF_651EE0D91A36",
+        "panorama_0A3AC1BF_1215_E6A4_4189_F7F891C63C1D",
+        "panorama_0A3A9885_1215_E564_41B0_A60B9B33FAA8",
+        "panorama_0A3ADF3A_1215_FBAF_4131_F7495D60B8F0",
+        "panorama_0A3AE61A_1215_ED6F_41B2_AE68BAE9E4EE",
+        "panorama_0A3ADCE5_1215_DEA5_41AA_8CDD3868CBC4",
+        "panorama_0A3AF372_1215_ABBC_41AE_6D3310904727",
+        "panorama_0A3A4A50_1215_A5FB_41AB_4767F9C33068",
+        "panorama_0A3A80FD_1215_A6A5_41A2_5F4654BF7335",
+        "panorama_0A3A17A7_1215_AAA4_4180_61330BE4D18A"
+      ],
+      "entry": "panorama_08625EFB_1215_BAAC_4197_65AB7E953585",
+      "thumbnail": "media/panorama_08625EFB_1215_BAAC_4197_65AB7E953585_t.webp"
+    },
+    {
+      "id": "palmas-odontologia",
+      "label": "Odontologia",
+      "title": "Odontologia",
+      "subtitle": "",
+      "category": "Atendimento e saúde",
+      "scenes": [
+        "panorama_09635A41_13FD_65DD_4189_FC2BE1540442",
+        "panorama_0B0E6503_13FD_AF5D_4186_19601E41B287",
+        "panorama_0B0F415B_13FD_A7EC_416B_197E11FDB220",
+        "panorama_0B0E87E2_13FD_AADC_41A7_8E838225BC56",
+        "panorama_0B0F7E92_13FD_DD7C_4138_D8D8D95DA400",
+        "panorama_0B0E954C_13FD_EFE4_41B2_34F109AD50D8",
+        "panorama_0B0EAC13_13FD_FD7C_41A8_0B85E35C8E17",
+        "panorama_0B0E9303_13FD_EB5C_419F_5E056271E6E6",
+        "panorama_0B0EA99C_13FD_E764_4174_4CEC4AB674CD",
+        "panorama_0B0E808F_13FD_A564_4178_A20E0FEE067D",
+        "panorama_0B0ED77A_13FD_ABAF_41B1_EFD56C6AFD82"
+      ],
+      "entry": "panorama_09635A41_13FD_65DD_4189_FC2BE1540442",
+      "thumbnail": "media/panorama_09635A41_13FD_65DD_4189_FC2BE1540442_t.webp"
+    },
+    {
+      "id": "palmas-secretaria",
+      "label": "Secretaria",
+      "title": "Secretaria",
+      "subtitle": "",
+      "category": "Atendimento e saúde",
+      "scenes": [
+        "panorama_0F6723F4_1216_AABB_41A8_8AEC5EF5F2F0",
+        "panorama_08261362_1216_EBDF_4193_C61F6C6DA0EE"
+      ],
+      "entry": "panorama_0F6723F4_1216_AABB_41A8_8AEC5EF5F2F0",
+      "thumbnail": "media/panorama_0F6723F4_1216_AABB_41A8_8AEC5EF5F2F0_t.webp"
+    },
+    {
+      "id": "palmas-turismo-social",
+      "label": "Turismo Social",
+      "title": "Turismo Social",
+      "subtitle": "",
+      "category": "Atendimento e saúde",
+      "scenes": [
+        "panorama_336C4133_1235_67BC_41A7_1A4E45087BB3",
+        "panorama_0E31FC15_1235_5D64_4170_F6D0D2C6BCE8",
+        "panorama_0E22B31F_1235_AB65_41A6_4BF6051F8FE0"
+      ],
+      "entry": "panorama_336C4133_1235_67BC_41A7_1A4E45087BB3",
+      "thumbnail": "media/panorama_336C4133_1235_67BC_41A7_1A4E45087BB3_t.webp"
+    },
+    {
+      "id": "palmas-projeto-de-vida",
+      "label": "Projeto de Vida",
+      "title": "Projeto de Vida",
+      "subtitle": "",
+      "category": "Outros ambientes",
+      "scenes": [
+        "panorama_08505120_120D_675C_419D_30E259745643",
+        "panorama_0BD7C1BE_120D_A6A7_4185_81A4A75F2CD9",
+        "panorama_0BDA6E4D_120D_BDE5_41AA_075E1F5EBA20"
+      ],
+      "entry": "panorama_08505120_120D_675C_419D_30E259745643",
+      "thumbnail": "media/panorama_08505120_120D_675C_419D_30E259745643_t.webp"
+    },
+    {
+      "id": "palmas-sala-multiuso-01",
+      "label": "Sala Multiuso 01",
+      "title": "Sala Multiuso 01",
+      "subtitle": "",
+      "category": "Outros ambientes",
+      "scenes": [
+        "panorama_08317A76_121F_65A4_41B0_473C09C50435",
+        "panorama_0AF04DE4_121F_5EA4_41AE_2A80D24CADDD",
+        "panorama_0AF38C25_121F_BDA4_4199_D7C14AB2A790"
+      ],
+      "entry": "panorama_08317A76_121F_65A4_41B0_473C09C50435",
+      "thumbnail": "media/panorama_08317A76_121F_65A4_41B0_473C09C50435_t.webp"
+    },
+    {
+      "id": "palmas-sala-multiuso-02",
+      "label": "Sala Multiuso 02",
+      "title": "Sala Multiuso 02",
+      "subtitle": "",
+      "category": "Outros ambientes",
+      "scenes": [
+        "panorama_0850360C_121D_AD6B_41AC_296DA362E8E6",
+        "panorama_09417700_121D_AB5D_41A9_962CB49814CC"
+      ],
+      "entry": "panorama_0850360C_121D_AD6B_41AC_296DA362E8E6",
+      "thumbnail": "media/panorama_0850360C_121D_AD6B_41AC_296DA362E8E6_t.webp"
+    },
+    {
+      "id": "palmas-salas-projeto-especial",
+      "label": "Salas Projeto Especial",
+      "title": "Salas Projeto Especial",
+      "subtitle": "",
+      "category": "Outros ambientes",
+      "scenes": [
+        "panorama_0F54585A_1212_E5EF_41AE_B227E966D322",
+        "panorama_09C932FE_1212_EAA7_41B2_E481AF09C032",
+        "panorama_09C97427_1212_ADA5_41AE_9EE6EA4133BB",
+        "panorama_09D6210A_1212_A76D_41A5_7042D80ECD3A",
+        "panorama_09D63808_1212_A56C_41B0_FAE4E2953764"
+      ],
+      "entry": "panorama_0F54585A_1212_E5EF_41AE_B227E966D322",
+      "thumbnail": "media/panorama_0F54585A_1212_E5EF_41AE_B227E966D322_t.webp"
+    }
+  ],
+  "scenes": [
+    {
+      "id": "panorama_0D824A3D_1237_A5A4_41A4_C7A6E2D47046",
+      "index": 0,
+      "group": "palmas-vista-aerea",
+      "title": "Vista Aérea",
+      "subtitle": "",
+      "label": "Vista Aérea",
+      "thumbnail": "media/panorama_0D824A3D_1237_A5A4_41A4_C7A6E2D47046_t.webp",
+      "originalTitle": "Vista Aérea",
+      "originalSubtitle": ""
+    },
+    {
+      "id": "panorama_0FD42F19_1237_DB6C_41A7_25199BE4C050",
+      "index": 1,
+      "group": "palmas-vista-aerea",
+      "title": "Vista Aérea",
+      "subtitle": "",
+      "label": "Vista Aérea",
+      "thumbnail": "media/panorama_0FD42F19_1237_DB6C_41A7_25199BE4C050_t.webp",
+      "originalTitle": "Vista Aérea",
+      "originalSubtitle": ""
+    },
+    {
+      "id": "panorama_0FD784E2_1237_EEDF_4198_829F5527F2B6",
+      "index": 2,
+      "group": "palmas-vista-aerea",
+      "title": "Vista Aérea",
+      "subtitle": "",
+      "label": "Vista Aérea",
+      "thumbnail": "media/panorama_0FD784E2_1237_EEDF_4198_829F5527F2B6_t.webp",
+      "originalTitle": "Vista Aérea",
+      "originalSubtitle": ""
+    },
+    {
+      "id": "panorama_0FD7837C_1237_ABA4_41AE_E61FD658DF88",
+      "index": 3,
+      "group": "palmas-vista-aerea",
+      "title": "Vista Aérea",
+      "subtitle": "",
+      "label": "Vista Aérea",
+      "thumbnail": "media/panorama_0FD7837C_1237_ABA4_41AE_E61FD658DF88_t.webp",
+      "originalTitle": "Vista Aérea",
+      "originalSubtitle": ""
+    },
+    {
+      "id": "panorama_03983513_120D_AF7C_41B0_C553835F4244",
+      "index": 4,
+      "group": "palmas-academia",
+      "title": "Academia",
+      "subtitle": "",
+      "label": "Academia",
+      "thumbnail": "media/panorama_03983513_120D_AF7C_41B0_C553835F4244_t.webp",
+      "originalTitle": "Academia",
+      "originalSubtitle": ""
+    },
+    {
+      "id": "panorama_1DF67626_120D_EDA4_419B_08A0F340DF3B",
+      "index": 5,
+      "group": "palmas-academia",
+      "title": "Academia",
+      "subtitle": "",
+      "label": "Academia",
+      "thumbnail": "media/panorama_1DF67626_120D_EDA4_419B_08A0F340DF3B_t.webp",
+      "originalTitle": "Academia",
+      "originalSubtitle": ""
+    },
+    {
+      "id": "panorama_1DF6B298_120D_E56C_419B_A290033C3AF2",
+      "index": 6,
+      "group": "palmas-academia",
+      "title": "Academia",
+      "subtitle": "",
+      "label": "Academia",
+      "thumbnail": "media/panorama_1DF6B298_120D_E56C_419B_A290033C3AF2_t.webp",
+      "originalTitle": "Academia",
+      "originalSubtitle": ""
+    },
+    {
+      "id": "panorama_1DF77D72_120D_DFBF_4196_6134D801A380",
+      "index": 7,
+      "group": "palmas-academia",
+      "title": "Academia",
+      "subtitle": "",
+      "label": "Academia",
+      "thumbnail": "media/panorama_1DF77D72_120D_DFBF_4196_6134D801A380_t.webp",
+      "originalTitle": "Academia",
+      "originalSubtitle": ""
+    },
+    {
+      "id": "panorama_1DF6C409_120D_AD6C_41A9_41846BC900BF",
+      "index": 8,
+      "group": "palmas-academia",
+      "title": "Academia",
+      "subtitle": "",
+      "label": "Academia",
+      "thumbnail": "media/panorama_1DF6C409_120D_AD6C_41A9_41846BC900BF_t.webp",
+      "originalTitle": "Academia",
+      "originalSubtitle": ""
+    },
+    {
+      "id": "panorama_1DF71ACF_120D_BAE4_41B0_04FE93A59831",
+      "index": 9,
+      "group": "palmas-academia",
+      "title": "Academia",
+      "subtitle": "",
+      "label": "Academia",
+      "thumbnail": "media/panorama_1DF71ACF_120D_BAE4_41B0_04FE93A59831_t.webp",
+      "originalTitle": "Academia",
+      "originalSubtitle": ""
+    },
+    {
+      "id": "panorama_1DF6C15D_120D_A7E5_4195_D22DF335E838",
+      "index": 10,
+      "group": "palmas-academia",
+      "title": "Academia",
+      "subtitle": "",
+      "label": "Academia",
+      "thumbnail": "media/panorama_1DF6C15D_120D_A7E5_4195_D22DF335E838_t.webp",
+      "originalTitle": "Academia",
+      "originalSubtitle": ""
+    },
+    {
+      "id": "panorama_1DF737F5_120D_AAA4_4180_12AF7DCFC93E",
+      "index": 11,
+      "group": "palmas-academia",
+      "title": "Academia",
+      "subtitle": "",
+      "label": "Academia",
+      "thumbnail": "media/panorama_1DF737F5_120D_AAA4_4180_12AF7DCFC93E_t.webp",
+      "originalTitle": "Academia",
+      "originalSubtitle": ""
+    },
+    {
+      "id": "panorama_1DF6EE67_120D_5DA4_4187_2FA4AA7AD039",
+      "index": 12,
+      "group": "palmas-academia",
+      "title": "Academia",
+      "subtitle": "",
+      "label": "Academia",
+      "thumbnail": "media/panorama_1DF6EE67_120D_5DA4_4187_2FA4AA7AD039_t.webp",
+      "originalTitle": "Academia",
+      "originalSubtitle": ""
+    },
+    {
+      "id": "panorama_1DF6F4B8_120D_6EAC_419B_F701D921B48A",
+      "index": 13,
+      "group": "palmas-academia",
+      "title": "Academia",
+      "subtitle": "",
+      "label": "Academia",
+      "thumbnail": "media/panorama_1DF6F4B8_120D_6EAC_419B_F701D921B48A_t.webp",
+      "originalTitle": "Academia",
+      "originalSubtitle": ""
+    },
+    {
+      "id": "panorama_1DF64BD0_120D_7AFC_418E_E7BEE24B22B5",
+      "index": 14,
+      "group": "palmas-academia",
+      "title": "Academia",
+      "subtitle": "",
+      "label": "Academia",
+      "thumbnail": "media/panorama_1DF64BD0_120D_7AFC_418E_E7BEE24B22B5_t.webp",
+      "originalTitle": "Academia",
+      "originalSubtitle": ""
+    },
+    {
+      "id": "panorama_1DF6D211_120D_657D_41A8_F931F5F3FA1E",
+      "index": 15,
+      "group": "palmas-academia",
+      "title": "Academia",
+      "subtitle": "",
+      "label": "Academia",
+      "thumbnail": "media/panorama_1DF6D211_120D_657D_41A8_F931F5F3FA1E_t.webp",
+      "originalTitle": "Academia",
+      "originalSubtitle": ""
+    },
+    {
+      "id": "panorama_1DF66919_120D_676C_4194_DF237B90389D",
+      "index": 16,
+      "group": "palmas-academia",
+      "title": "Academia",
+      "subtitle": "",
+      "label": "Academia",
+      "thumbnail": "media/panorama_1DF66919_120D_676C_4194_DF237B90389D_t.webp",
+      "originalTitle": "Academia",
+      "originalSubtitle": ""
+    },
+    {
+      "id": "panorama_1DF57100_120E_A75C_417A_58A930CD12A0",
+      "index": 17,
+      "group": "palmas-academia",
+      "title": "Academia",
+      "subtitle": "",
+      "label": "Academia",
+      "thumbnail": "media/panorama_1DF57100_120E_A75C_417A_58A930CD12A0_t.webp",
+      "originalTitle": "Academia",
+      "originalSubtitle": ""
+    },
+    {
+      "id": "panorama_1DF5B7CC_120E_AAE4_41AB_83F88F3C2DB2",
+      "index": 18,
+      "group": "palmas-academia",
+      "title": "Academia",
+      "subtitle": "",
+      "label": "Academia",
+      "thumbnail": "media/panorama_1DF5B7CC_120E_AAE4_41AB_83F88F3C2DB2_t.webp",
+      "originalTitle": "Academia",
+      "originalSubtitle": ""
+    },
+    {
+      "id": "panorama_1DF58EC8_120E_BAEC_41B1_64072DB7AF66",
+      "index": 19,
+      "group": "palmas-academia",
+      "title": "Academia",
+      "subtitle": "",
+      "label": "Academia",
+      "thumbnail": "media/panorama_1DF58EC8_120E_BAEC_41B1_64072DB7AF66_t.webp",
+      "originalTitle": "Academia",
+      "originalSubtitle": ""
+    },
+    {
+      "id": "panorama_1DF215B3_120E_AEBC_41A8_DE02AE451BAC",
+      "index": 20,
+      "group": "palmas-academia",
+      "title": "Academia",
+      "subtitle": "",
+      "label": "Academia",
+      "thumbnail": "media/panorama_1DF215B3_120E_AEBC_41A8_DE02AE451BAC_t.webp",
+      "originalTitle": "Academia",
+      "originalSubtitle": ""
+    },
+    {
+      "id": "panorama_1DF5AC50_120E_DDFB_4197_84E56C76C7AB",
+      "index": 21,
+      "group": "palmas-academia",
+      "title": "Academia",
+      "subtitle": "",
+      "label": "Academia",
+      "thumbnail": "media/panorama_1DF5AC50_120E_DDFB_4197_84E56C76C7AB_t.webp",
+      "originalTitle": "Academia",
+      "originalSubtitle": ""
+    },
+    {
+      "id": "panorama_03FA6219_1216_E56D_418A_78E24D966416",
+      "index": 22,
+      "group": "palmas-biblioteca",
+      "title": "Biblioteca",
+      "subtitle": "",
+      "label": "Biblioteca",
+      "thumbnail": "media/panorama_03FA6219_1216_E56D_418A_78E24D966416_t.webp",
+      "originalTitle": "bIBLIOTECA",
+      "originalSubtitle": ""
+    },
+    {
+      "id": "panorama_02F57E1D_1216_FD64_41A6_7C6109C25696",
+      "index": 23,
+      "group": "palmas-biblioteca",
+      "title": "Biblioteca",
+      "subtitle": "",
+      "label": "Biblioteca",
+      "thumbnail": "media/panorama_02F57E1D_1216_FD64_41A6_7C6109C25696_t.webp",
+      "originalTitle": "bIBLIOTECA",
+      "originalSubtitle": ""
+    },
+    {
+      "id": "panorama_02F57D01_1216_DF5C_418D_ED70F1A7F6EB",
+      "index": 24,
+      "group": "palmas-biblioteca",
+      "title": "Biblioteca",
+      "subtitle": "",
+      "label": "Biblioteca",
+      "thumbnail": "media/panorama_02F57D01_1216_DF5C_418D_ED70F1A7F6EB_t.webp",
+      "originalTitle": "bIBLIOTECA",
+      "originalSubtitle": ""
+    },
+    {
+      "id": "panorama_02F6D72A_1216_ABAF_4171_0DD5F7BB2EFC",
+      "index": 25,
+      "group": "palmas-biblioteca",
+      "title": "Biblioteca",
+      "subtitle": "",
+      "label": "Biblioteca",
+      "thumbnail": "media/panorama_02F6D72A_1216_ABAF_4171_0DD5F7BB2EFC_t.webp",
+      "originalTitle": "bIBLIOTECA",
+      "originalSubtitle": ""
+    },
+    {
+      "id": "panorama_02F6CE95_1216_BD65_41A0_FAECDB23861F",
+      "index": 26,
+      "group": "palmas-biblioteca",
+      "title": "Biblioteca",
+      "subtitle": "",
+      "label": "Biblioteca",
+      "thumbnail": "media/panorama_02F6CE95_1216_BD65_41A0_FAECDB23861F_t.webp",
+      "originalTitle": "bIBLIOTECA",
+      "originalSubtitle": ""
+    },
+    {
+      "id": "panorama_02F6E52C_1216_AFA4_41AE_CD00B71D8DA6",
+      "index": 27,
+      "group": "palmas-biblioteca",
+      "title": "Biblioteca",
+      "subtitle": "",
+      "label": "Biblioteca",
+      "thumbnail": "media/panorama_02F6E52C_1216_AFA4_41AE_CD00B71D8DA6_t.webp",
+      "originalTitle": "bIBLIOTECA",
+      "originalSubtitle": ""
+    },
+    {
+      "id": "panorama_02F62C85_1215_5D65_4159_9F90E5A933C2",
+      "index": 28,
+      "group": "palmas-biblioteca",
+      "title": "Biblioteca",
+      "subtitle": "",
+      "label": "Biblioteca",
+      "thumbnail": "media/panorama_02F62C85_1215_5D65_4159_9F90E5A933C2_t.webp",
+      "originalTitle": "bIBLIOTECA",
+      "originalSubtitle": ""
+    },
+    {
+      "id": "panorama_02F6A33F_1215_6BA5_419D_6219A0CD258C",
+      "index": 29,
+      "group": "palmas-biblioteca",
+      "title": "Biblioteca",
+      "subtitle": "",
+      "label": "Biblioteca",
+      "thumbnail": "media/panorama_02F6A33F_1215_6BA5_419D_6219A0CD258C_t.webp",
+      "originalTitle": "bIBLIOTECA",
+      "originalSubtitle": ""
+    },
+    {
+      "id": "panorama_0073B41A_120E_ED6C_41B0_211BB579AE11",
+      "index": 30,
+      "group": "palmas-campo-de-futebol",
+      "title": "Campo de Futebol",
+      "subtitle": "",
+      "label": "Campo de Futebol",
+      "thumbnail": "media/panorama_0073B41A_120E_ED6C_41B0_211BB579AE11_t.webp",
+      "originalTitle": "Campo de Futebol",
+      "originalSubtitle": ""
+    },
+    {
+      "id": "panorama_02C7DC69_120E_DDAC_4183_FE34F6E2736C",
+      "index": 31,
+      "group": "palmas-campo-de-futebol",
+      "title": "Campo de Futebol",
+      "subtitle": "",
+      "label": "Campo de Futebol",
+      "thumbnail": "media/panorama_02C7DC69_120E_DDAC_4183_FE34F6E2736C_t.webp",
+      "originalTitle": "Campo de Futebol",
+      "originalSubtitle": ""
+    },
+    {
+      "id": "panorama_02C764FF_120E_AEA4_419C_2D485F1A6666",
+      "index": 32,
+      "group": "palmas-campo-de-futebol",
+      "title": "Campo de Futebol",
+      "subtitle": "",
+      "label": "Campo de Futebol",
+      "thumbnail": "media/panorama_02C764FF_120E_AEA4_419C_2D485F1A6666_t.webp",
+      "originalTitle": "Campo de Futebol",
+      "originalSubtitle": ""
+    },
+    {
+      "id": "panorama_00503553_12F5_AFFC_4162_330D83B060B8",
+      "index": 33,
+      "group": "palmas-central-de-relacionamento",
+      "title": "Central de Relacionamento",
+      "subtitle": "",
+      "label": "Central de Relacionamento",
+      "thumbnail": "media/panorama_00503553_12F5_AFFC_4162_330D83B060B8_t.webp",
+      "originalTitle": "IMG_20260628_082343_00_242",
+      "originalSubtitle": ""
+    },
+    {
+      "id": "panorama_025BE701_12F5_AB5D_41AE_760ABC332BF3",
+      "index": 34,
+      "group": "palmas-central-de-relacionamento",
+      "title": "Central de Relacionamento",
+      "subtitle": "",
+      "label": "Central de Relacionamento",
+      "thumbnail": "media/panorama_025BE701_12F5_AB5D_41AE_760ABC332BF3_t.webp",
+      "originalTitle": "IMG_20260628_082435_00_243",
+      "originalSubtitle": ""
+    },
+    {
+      "id": "panorama_02595E29_12F5_5DAC_41B0_EEF189AAAF61",
+      "index": 35,
+      "group": "palmas-central-de-relacionamento",
+      "title": "Central de Relacionamento",
+      "subtitle": "",
+      "label": "Central de Relacionamento",
+      "thumbnail": "media/panorama_02595E29_12F5_5DAC_41B0_EEF189AAAF61_t.webp",
+      "originalTitle": "IMG_20260628_082618_00_245",
+      "originalSubtitle": ""
+    },
+    {
+      "id": "panorama_0259449C_12F5_6D64_41B1_940EE517C6E6",
+      "index": 36,
+      "group": "palmas-central-de-relacionamento",
+      "title": "Central de Relacionamento",
+      "subtitle": "",
+      "label": "Central de Relacionamento",
+      "thumbnail": "media/panorama_0259449C_12F5_6D64_41B1_940EE517C6E6_t.webp",
+      "originalTitle": "IMG_20260628_082718_00_246",
+      "originalSubtitle": ""
+    },
+    {
+      "id": "panorama_00FB9C6C_12FF_BDAB_41A3_A0903C6B637E",
+      "index": 37,
+      "group": "palmas-cine-sesc",
+      "title": "Cine Sesc",
+      "subtitle": "",
+      "label": "Cine Sesc",
+      "thumbnail": "media/panorama_00FB9C6C_12FF_BDAB_41A3_A0903C6B637E_t.webp",
+      "originalTitle": "Cine Sesc",
+      "originalSubtitle": ""
+    },
+    {
+      "id": "panorama_025FBDFD_12FF_DEA5_4190_781F5AEB3006",
+      "index": 38,
+      "group": "palmas-cine-sesc",
+      "title": "Cine Sesc",
+      "subtitle": "",
+      "label": "Cine Sesc",
+      "thumbnail": "media/panorama_025FBDFD_12FF_DEA5_4190_781F5AEB3006_t.webp",
+      "originalTitle": "Cine Sesc",
+      "originalSubtitle": ""
+    },
+    {
+      "id": "panorama_02510A33_12FF_E5BD_41AA_239CB3E1886F",
+      "index": 39,
+      "group": "palmas-cine-sesc",
+      "title": "Cine Sesc",
+      "subtitle": "",
+      "label": "Cine Sesc",
+      "thumbnail": "media/panorama_02510A33_12FF_E5BD_41AA_239CB3E1886F_t.webp",
+      "originalTitle": "Cine Sesc",
+      "originalSubtitle": ""
+    },
+    {
+      "id": "panorama_01788735_12F3_EBA5_4193_E21546EC5AAA",
+      "index": 40,
+      "group": "palmas-educacao-infantil-acesso-a-escola-e-patio",
+      "title": "Educação Infantil",
+      "subtitle": "Acesso à Escola e Pátio",
+      "label": "Educação Infantil — Acesso à Escola e Pátio",
+      "thumbnail": "media/panorama_01788735_12F3_EBA5_4193_E21546EC5AAA_t.webp",
+      "originalTitle": "Educação Infantil",
+      "originalSubtitle": "Acesso ao Escola e Pátio"
+    },
+    {
+      "id": "panorama_038017CF_12F3_EAE4_4177_179F7229EA74",
+      "index": 41,
+      "group": "palmas-educacao-infantil-acesso-a-escola-e-patio",
+      "title": "Educação Infantil",
+      "subtitle": "Acesso à Escola e Pátio",
+      "label": "Educação Infantil — Acesso à Escola e Pátio",
+      "thumbnail": "media/panorama_038017CF_12F3_EAE4_4177_179F7229EA74_t.webp",
+      "originalTitle": "Educação Infantil",
+      "originalSubtitle": "Acesso ao Escola e Pátio"
+    },
+    {
+      "id": "panorama_0387E240_12F3_A5DC_41A0_99C5E4369B81",
+      "index": 42,
+      "group": "palmas-educacao-infantil-acesso-a-escola-e-patio",
+      "title": "Educação Infantil",
+      "subtitle": "Acesso à Escola e Pátio",
+      "label": "Educação Infantil — Acesso à Escola e Pátio",
+      "thumbnail": "media/panorama_0387E240_12F3_A5DC_41A0_99C5E4369B81_t.webp",
+      "originalTitle": "Educação Infantil",
+      "originalSubtitle": "Acesso ao Escola e Pátio"
+    },
+    {
+      "id": "panorama_0380D0B4_12F3_A6A4_41A5_A068E36ED211",
+      "index": 43,
+      "group": "palmas-educacao-infantil-acesso-a-escola-e-patio",
+      "title": "Educação Infantil",
+      "subtitle": "Acesso à Escola e Pátio",
+      "label": "Educação Infantil — Acesso à Escola e Pátio",
+      "thumbnail": "media/panorama_0380D0B4_12F3_A6A4_41A5_A068E36ED211_t.webp",
+      "originalTitle": "Educação Infantil",
+      "originalSubtitle": "Acesso ao Escola e Pátio"
+    },
+    {
+      "id": "panorama_0387A78A_12F3_AB6C_4186_3D16841C9A53",
+      "index": 44,
+      "group": "palmas-educacao-infantil-acesso-a-escola-e-patio",
+      "title": "Educação Infantil",
+      "subtitle": "Acesso à Escola e Pátio",
+      "label": "Educação Infantil — Acesso à Escola e Pátio",
+      "thumbnail": "media/panorama_0387A78A_12F3_AB6C_4186_3D16841C9A53_t.webp",
+      "originalTitle": "Educação Infantil",
+      "originalSubtitle": "Acesso ao Escola e Pátio"
+    },
+    {
+      "id": "panorama_03870E92_12F3_5D7F_4183_64364A283CBC",
+      "index": 45,
+      "group": "palmas-educacao-infantil-acesso-a-escola-e-patio",
+      "title": "Educação Infantil",
+      "subtitle": "Acesso à Escola e Pátio",
+      "label": "Educação Infantil — Acesso à Escola e Pátio",
+      "thumbnail": "media/panorama_03870E92_12F3_5D7F_4183_64364A283CBC_t.webp",
+      "originalTitle": "Educação Infantil",
+      "originalSubtitle": "Acesso ao Escola e Pátio"
+    },
+    {
+      "id": "panorama_03871504_12F3_6F64_415A_03BD31B04322",
+      "index": 46,
+      "group": "palmas-educacao-infantil-acesso-a-escola-e-patio",
+      "title": "Educação Infantil",
+      "subtitle": "Acesso à Escola e Pátio",
+      "label": "Educação Infantil — Acesso à Escola e Pátio",
+      "thumbnail": "media/panorama_03871504_12F3_6F64_415A_03BD31B04322_t.webp",
+      "originalTitle": "Educação Infantil",
+      "originalSubtitle": "Acesso ao Escola e Pátio"
+    },
+    {
+      "id": "panorama_0380EB90_12F3_7B7C_41A5_6B04153D10A2",
+      "index": 47,
+      "group": "palmas-educacao-infantil-acesso-a-escola-e-patio",
+      "title": "Educação Infantil",
+      "subtitle": "Acesso à Escola e Pátio",
+      "label": "Educação Infantil — Acesso à Escola e Pátio",
+      "thumbnail": "media/panorama_0380EB90_12F3_7B7C_41A5_6B04153D10A2_t.webp",
+      "originalTitle": "Educação Infantil",
+      "originalSubtitle": "Acesso ao Escola e Pátio"
+    },
+    {
+      "id": "panorama_0387026C_12F3_65AB_41A1_56966553E083",
+      "index": 48,
+      "group": "palmas-educacao-infantil-acesso-a-escola-e-patio",
+      "title": "Educação Infantil",
+      "subtitle": "Acesso à Escola e Pátio",
+      "label": "Educação Infantil — Acesso à Escola e Pátio",
+      "thumbnail": "media/panorama_0387026C_12F3_65AB_41A1_56966553E083_t.webp",
+      "originalTitle": "Educação Infantil",
+      "originalSubtitle": "Acesso ao Escola e Pátio"
+    },
+    {
+      "id": "panorama_0380B8DE_12F3_66E4_41AF_66F5F7E997F0",
+      "index": 49,
+      "group": "palmas-educacao-infantil-acesso-a-escola-e-patio",
+      "title": "Educação Infantil",
+      "subtitle": "Acesso à Escola e Pátio",
+      "label": "Educação Infantil — Acesso à Escola e Pátio",
+      "thumbnail": "media/panorama_0380B8DE_12F3_66E4_41AF_66F5F7E997F0_t.webp",
+      "originalTitle": "Educação Infantil",
+      "originalSubtitle": "Acesso ao Escola e Pátio"
+    },
+    {
+      "id": "panorama_006877CF_1215_AAE4_4196_784F5A2FB960",
+      "index": 50,
+      "group": "palmas-educacao-infantil-refeitorio",
+      "title": "Educação Infantil",
+      "subtitle": "Refeitório",
+      "label": "Educação Infantil — Refeitório",
+      "thumbnail": "media/panorama_006877CF_1215_AAE4_4196_784F5A2FB960_t.webp",
+      "originalTitle": "Educação Infantil  Refeitório",
+      "originalSubtitle": "Refeitório "
+    },
+    {
+      "id": "panorama_03EF5B0C_1215_DB64_41A4_B64D27BB3F51",
+      "index": 51,
+      "group": "palmas-educacao-infantil-refeitorio",
+      "title": "Educação Infantil",
+      "subtitle": "Refeitório",
+      "label": "Educação Infantil — Refeitório",
+      "thumbnail": "media/panorama_03EF5B0C_1215_DB64_41A4_B64D27BB3F51_t.webp",
+      "originalTitle": "Educação Infantil  Refeitório",
+      "originalSubtitle": "Refeitório "
+    },
+    {
+      "id": "panorama_03E8E6CF_1215_EAE4_41AC_E9CFBE68FA61",
+      "index": 52,
+      "group": "palmas-educacao-infantil-refeitorio",
+      "title": "Educação Infantil",
+      "subtitle": "Refeitório",
+      "label": "Educação Infantil — Refeitório",
+      "thumbnail": "media/panorama_03E8E6CF_1215_EAE4_41AC_E9CFBE68FA61_t.webp",
+      "originalTitle": "Educação Infantil  Refeitório",
+      "originalSubtitle": "Refeitório "
+    },
+    {
+      "id": "panorama_03E80DFE_1215_FEA4_41A6_C13EB8FD0B55",
+      "index": 53,
+      "group": "palmas-educacao-infantil-refeitorio",
+      "title": "Educação Infantil",
+      "subtitle": "Refeitório",
+      "label": "Educação Infantil — Refeitório",
+      "thumbnail": "media/panorama_03E80DFE_1215_FEA4_41A6_C13EB8FD0B55_t.webp",
+      "originalTitle": "Educação Infantil  Refeitório",
+      "originalSubtitle": "Refeitório "
+    },
+    {
+      "id": "panorama_03E8D4A2_1215_ED5F_41B2_91A4E8246EEB",
+      "index": 54,
+      "group": "palmas-educacao-infantil-refeitorio",
+      "title": "Educação Infantil",
+      "subtitle": "Refeitório",
+      "label": "Educação Infantil — Refeitório",
+      "thumbnail": "media/panorama_03E8D4A2_1215_ED5F_41B2_91A4E8246EEB_t.webp",
+      "originalTitle": "Educação Infantil  Refeitório",
+      "originalSubtitle": "Refeitório "
+    },
+    {
+      "id": "panorama_03E80B42_1215_DBDC_4192_FCF6012FFA2F",
+      "index": 55,
+      "group": "palmas-educacao-infantil-refeitorio",
+      "title": "Educação Infantil",
+      "subtitle": "Refeitório",
+      "label": "Educação Infantil — Refeitório",
+      "thumbnail": "media/panorama_03E80B42_1215_DBDC_4192_FCF6012FFA2F_t.webp",
+      "originalTitle": "Educação Infantil  Refeitório",
+      "originalSubtitle": "Refeitório "
+    },
+    {
+      "id": "panorama_010F84FA_1212_AEAF_41A0_BD86189FBE72",
+      "index": 56,
+      "group": "palmas-educacao-infantil-sala-01",
+      "title": "Educação Infantil",
+      "subtitle": "Sala 01",
+      "label": "Educação Infantil — Sala 01",
+      "thumbnail": "media/panorama_010F84FA_1212_AEAF_41A0_BD86189FBE72_t.webp",
+      "originalTitle": "Educação Infantil",
+      "originalSubtitle": "Sala 01"
+    },
+    {
+      "id": "panorama_0371D266_1212_A5A7_41A6_BE82EB46BA81",
+      "index": 57,
+      "group": "palmas-educacao-infantil-sala-01",
+      "title": "Educação Infantil",
+      "subtitle": "Sala 01",
+      "label": "Educação Infantil — Sala 01",
+      "thumbnail": "media/panorama_0371D266_1212_A5A7_41A6_BE82EB46BA81_t.webp",
+      "originalTitle": "Educação Infantil",
+      "originalSubtitle": "Sala 01"
+    },
+    {
+      "id": "panorama_037ED9CC_1212_A6E4_41A5_7710D6D11524",
+      "index": 58,
+      "group": "palmas-educacao-infantil-sala-01",
+      "title": "Educação Infantil",
+      "subtitle": "Sala 01",
+      "label": "Educação Infantil — Sala 01",
+      "thumbnail": "media/panorama_037ED9CC_1212_A6E4_41A5_7710D6D11524_t.webp",
+      "originalTitle": "Educação Infantil",
+      "originalSubtitle": "Sala 01"
+    },
+    {
+      "id": "panorama_00D463B6_1217_6AA4_41B0_93AF816CE63B",
+      "index": 59,
+      "group": "palmas-educacao-infantil-sala-02",
+      "title": "Educação Infantil",
+      "subtitle": "Sala 02",
+      "label": "Educação Infantil — Sala 02",
+      "thumbnail": "media/panorama_00D463B6_1217_6AA4_41B0_93AF816CE63B_t.webp",
+      "originalTitle": "Educação Infantil",
+      "originalSubtitle": "Sala 02"
+    },
+    {
+      "id": "panorama_009424E3_1217_AEDC_419F_A801DB9283BD",
+      "index": 60,
+      "group": "palmas-educacao-infantil-sala-02",
+      "title": "Educação Infantil",
+      "subtitle": "Sala 02",
+      "label": "Educação Infantil — Sala 02",
+      "thumbnail": "media/panorama_009424E3_1217_AEDC_419F_A801DB9283BD_t.webp",
+      "originalTitle": "Educação Infantil",
+      "originalSubtitle": "Sala 02"
+    },
+    {
+      "id": "panorama_0094C262_1217_A5DC_4187_2B9E595CF2BB",
+      "index": 61,
+      "group": "palmas-educacao-infantil-sala-02",
+      "title": "Educação Infantil",
+      "subtitle": "Sala 02",
+      "label": "Educação Infantil — Sala 02",
+      "thumbnail": "media/panorama_0094C262_1217_A5DC_4187_2B9E595CF2BB_t.webp",
+      "originalTitle": "Educação Infantil",
+      "originalSubtitle": "Sala 02"
+    },
+    {
+      "id": "panorama_06CA27A2_120D_AB5F_4199_2AE264AC252F",
+      "index": 62,
+      "group": "palmas-educacao-infantil-sala-03",
+      "title": "Educação Infantil",
+      "subtitle": "Sala 03",
+      "label": "Educação Infantil — Sala 03",
+      "thumbnail": "media/panorama_06CA27A2_120D_AB5F_4199_2AE264AC252F_t.webp",
+      "originalTitle": "Educação Infantil",
+      "originalSubtitle": "Sala 03"
+    },
+    {
+      "id": "panorama_00C9F666_120D_6DA4_41A1_2B4CB5B70541",
+      "index": 63,
+      "group": "palmas-educacao-infantil-sala-03",
+      "title": "Educação Infantil",
+      "subtitle": "Sala 03",
+      "label": "Educação Infantil — Sala 03",
+      "thumbnail": "media/panorama_00C9F666_120D_6DA4_41A1_2B4CB5B70541_t.webp",
+      "originalTitle": "Educação Infantil",
+      "originalSubtitle": "Sala 03"
+    },
+    {
+      "id": "panorama_06F4F6FD_120D_AAA4_4189_5678BB789EF2",
+      "index": 64,
+      "group": "palmas-educacao-infantil-sala-04",
+      "title": "Educação Infantil",
+      "subtitle": "Sala 04",
+      "label": "Educação Infantil — Sala 04",
+      "thumbnail": "media/panorama_06F4F6FD_120D_AAA4_4189_5678BB789EF2_t.webp",
+      "originalTitle": "Educação Infantil",
+      "originalSubtitle": "Sala 04"
+    },
+    {
+      "id": "panorama_001795DD_120D_6EE4_41A6_40F260501A2D",
+      "index": 65,
+      "group": "palmas-educacao-infantil-sala-04",
+      "title": "Educação Infantil",
+      "subtitle": "Sala 04",
+      "label": "Educação Infantil — Sala 04",
+      "thumbnail": "media/panorama_001795DD_120D_6EE4_41A6_40F260501A2D_t.webp",
+      "originalTitle": "Educação Infantil",
+      "originalSubtitle": "Sala 04"
+    },
+    {
+      "id": "panorama_0019C461_120D_6DDC_4198_B3B4C96707D5",
+      "index": 66,
+      "group": "palmas-educacao-infantil-sala-04",
+      "title": "Educação Infantil",
+      "subtitle": "Sala 04",
+      "label": "Educação Infantil — Sala 04",
+      "thumbnail": "media/panorama_0019C461_120D_6DDC_4198_B3B4C96707D5_t.webp",
+      "originalTitle": "Educação Infantil",
+      "originalSubtitle": "Sala 04"
+    },
+    {
+      "id": "panorama_0181E6CC_1237_6AE4_41A8_82809B1063F1",
+      "index": 67,
+      "group": "palmas-educacao-infantil-sala-05",
+      "title": "Educação Infantil",
+      "subtitle": "Sala 05",
+      "label": "Educação Infantil — Sala 05",
+      "thumbnail": "media/panorama_0181E6CC_1237_6AE4_41A8_82809B1063F1_t.webp",
+      "originalTitle": "Educação Intantil",
+      "originalSubtitle": "Sala 05"
+    },
+    {
+      "id": "panorama_001997DF_1236_AAE4_4164_BC6D3F8392AC",
+      "index": 68,
+      "group": "palmas-educacao-infantil-sala-05",
+      "title": "Educação Infantil",
+      "subtitle": "Sala 05",
+      "label": "Educação Infantil — Sala 05",
+      "thumbnail": "media/panorama_001997DF_1236_AAE4_4164_BC6D3F8392AC_t.webp",
+      "originalTitle": "Educação Intantil",
+      "originalSubtitle": "Sala 05"
+    },
+    {
+      "id": "panorama_06CA7BC5_123F_DAE4_4193_2E514F9BDBEF",
+      "index": 69,
+      "group": "palmas-educacao-infantil-sala-de-artes",
+      "title": "Educação Infantil",
+      "subtitle": "Sala de Artes",
+      "label": "Educação Infantil — Sala de Artes",
+      "thumbnail": "media/panorama_06CA7BC5_123F_DAE4_4193_2E514F9BDBEF_t.webp",
+      "originalTitle": "Educação Infantil",
+      "originalSubtitle": "Sala de Artes "
+    },
+    {
+      "id": "panorama_01A23259_123F_A5ED_4194_89835AC2C41E",
+      "index": 70,
+      "group": "palmas-educacao-infantil-sala-de-artes",
+      "title": "Educação Infantil",
+      "subtitle": "Sala de Artes",
+      "label": "Educação Infantil — Sala de Artes",
+      "thumbnail": "media/panorama_01A23259_123F_A5ED_4194_89835AC2C41E_t.webp",
+      "originalTitle": "Educação Infantil",
+      "originalSubtitle": "Sala de Artes "
+    },
+    {
+      "id": "panorama_01A2C989_123F_A76C_41A3_BAEAFC09644F",
+      "index": 71,
+      "group": "palmas-educacao-infantil-sala-de-artes",
+      "title": "Educação Infantil",
+      "subtitle": "Sala de Artes",
+      "label": "Educação Infantil — Sala de Artes",
+      "thumbnail": "media/panorama_01A2C989_123F_A76C_41A3_BAEAFC09644F_t.webp",
+      "originalTitle": "Educação Infantil",
+      "originalSubtitle": "Sala de Artes "
+    },
+    {
+      "id": "panorama_01F73296_1237_E564_41AF_8098966D600C",
+      "index": 72,
+      "group": "palmas-educacao-infantil-sala-dos-professores",
+      "title": "Educação Infantil",
+      "subtitle": "Sala dos Professores",
+      "label": "Educação Infantil — Sala dos Professores",
+      "thumbnail": "media/panorama_01F73296_1237_E564_41AF_8098966D600C_t.webp",
+      "originalTitle": "Educação Infantil  Sala dos Professores",
+      "originalSubtitle": ""
+    },
+    {
+      "id": "panorama_018F6B1A_1237_FB6C_41A3_9FE23A2BDDFC",
+      "index": 73,
+      "group": "palmas-educacao-infantil-sala-dos-professores",
+      "title": "Educação Infantil",
+      "subtitle": "Sala dos Professores",
+      "label": "Educação Infantil — Sala dos Professores",
+      "thumbnail": "media/panorama_018F6B1A_1237_FB6C_41A3_9FE23A2BDDFC_t.webp",
+      "originalTitle": "Educação Infantil  Sala dos Professores",
+      "originalSubtitle": ""
+    },
+    {
+      "id": "panorama_018F2249_1237_E5EC_41A3_E596422EE5EF",
+      "index": 74,
+      "group": "palmas-educacao-infantil-sala-dos-professores",
+      "title": "Educação Infantil",
+      "subtitle": "Sala dos Professores",
+      "label": "Educação Infantil — Sala dos Professores",
+      "thumbnail": "media/panorama_018F2249_1237_E5EC_41A3_E596422EE5EF_t.webp",
+      "originalTitle": "Educação Infantil  Sala dos Professores",
+      "originalSubtitle": ""
+    },
+    {
+      "id": "panorama_018F68EE_1237_E6A7_4193_882B29DEA00E",
+      "index": 75,
+      "group": "palmas-educacao-infantil-sala-dos-professores",
+      "title": "Educação Infantil",
+      "subtitle": "Sala dos Professores",
+      "label": "Educação Infantil — Sala dos Professores",
+      "thumbnail": "media/panorama_018F68EE_1237_E6A7_4193_882B29DEA00E_t.webp",
+      "originalTitle": "Educação Infantil  Sala dos Professores",
+      "originalSubtitle": ""
+    },
+    {
+      "id": "panorama_06FCDEC0_1217_DADB_41A4_355E02C693DA",
+      "index": 76,
+      "group": "palmas-esporte-01",
+      "title": "Esporte 01",
+      "subtitle": "",
+      "label": "Esporte 01",
+      "thumbnail": "media/panorama_06FCDEC0_1217_DADB_41A4_355E02C693DA_t.webp",
+      "originalTitle": "Esporte 01",
+      "originalSubtitle": ""
+    },
+    {
+      "id": "panorama_01F5BEF9_1217_FAAD_41AD_64F5A55C125C",
+      "index": 77,
+      "group": "palmas-esporte-01",
+      "title": "Esporte 01",
+      "subtitle": "",
+      "label": "Esporte 01",
+      "thumbnail": "media/panorama_01F5BEF9_1217_FAAD_41AD_64F5A55C125C_t.webp",
+      "originalTitle": "Esporte 01",
+      "originalSubtitle": ""
+    },
+    {
+      "id": "panorama_01F4D59D_1217_EF64_41A4_D763583FC574",
+      "index": 78,
+      "group": "palmas-esporte-01",
+      "title": "Esporte 01",
+      "subtitle": "",
+      "label": "Esporte 01",
+      "thumbnail": "media/panorama_01F4D59D_1217_EF64_41A4_D763583FC574_t.webp",
+      "originalTitle": "Esporte 01",
+      "originalSubtitle": ""
+    },
+    {
+      "id": "panorama_0658C63F_121D_6DA4_41B1_571E24B5F075",
+      "index": 79,
+      "group": "palmas-ginasio",
+      "title": "Ginásio",
+      "subtitle": "",
+      "label": "Ginásio",
+      "thumbnail": "media/panorama_0658C63F_121D_6DA4_41B1_571E24B5F075_t.webp",
+      "originalTitle": "Ginásio",
+      "originalSubtitle": ""
+    },
+    {
+      "id": "panorama_012AF50F_121D_AF64_41AE_E35131C4BB6C",
+      "index": 80,
+      "group": "palmas-ginasio",
+      "title": "Ginásio",
+      "subtitle": "",
+      "label": "Ginásio",
+      "thumbnail": "media/panorama_012AF50F_121D_AF64_41AE_E35131C4BB6C_t.webp",
+      "originalTitle": "Ginásio",
+      "originalSubtitle": ""
+    },
+    {
+      "id": "panorama_012B8C43_121D_BDDD_41A6_1EE0D889CC12",
+      "index": 81,
+      "group": "palmas-ginasio",
+      "title": "Ginásio",
+      "subtitle": "",
+      "label": "Ginásio",
+      "thumbnail": "media/panorama_012B8C43_121D_BDDD_41A6_1EE0D889CC12_t.webp",
+      "originalTitle": "Ginásio",
+      "originalSubtitle": ""
+    },
+    {
+      "id": "panorama_04E146BA_1216_AAAC_41A6_D6D81B328319",
+      "index": 82,
+      "group": "palmas-hall-de-entrada",
+      "title": "Hall de Entrada",
+      "subtitle": "",
+      "label": "Hall de Entrada",
+      "thumbnail": "media/panorama_04E146BA_1216_AAAC_41A6_D6D81B328319_t.webp",
+      "originalTitle": "Hall de Entrada",
+      "originalSubtitle": ""
+    },
+    {
+      "id": "panorama_010BA79B_1216_EB6C_41AF_81FBDAE40A22",
+      "index": 83,
+      "group": "palmas-hall-de-entrada",
+      "title": "Hall de Entrada",
+      "subtitle": "",
+      "label": "Hall de Entrada",
+      "thumbnail": "media/panorama_010BA79B_1216_EB6C_41AF_81FBDAE40A22_t.webp",
+      "originalTitle": "Hall de Entrada",
+      "originalSubtitle": ""
+    },
+    {
+      "id": "panorama_010AC520_1216_EF5B_4198_BC37096310AA",
+      "index": 84,
+      "group": "palmas-hall-de-entrada",
+      "title": "Hall de Entrada",
+      "subtitle": "",
+      "label": "Hall de Entrada",
+      "thumbnail": "media/panorama_010AC520_1216_EF5B_4198_BC37096310AA_t.webp",
+      "originalTitle": "Hall de Entrada",
+      "originalSubtitle": ""
+    },
+    {
+      "id": "panorama_010B0F26_1216_DBA4_4192_FB98149092E0",
+      "index": 85,
+      "group": "palmas-hall-de-entrada",
+      "title": "Hall de Entrada",
+      "subtitle": "",
+      "label": "Hall de Entrada",
+      "thumbnail": "media/panorama_010B0F26_1216_DBA4_4192_FB98149092E0_t.webp",
+      "originalTitle": "Hall de Entrada",
+      "originalSubtitle": ""
+    },
+    {
+      "id": "panorama_07CB0A0B_1233_656C_41A5_E527D7FB005A",
+      "index": 86,
+      "group": "palmas-escola-sesc-espaco-maker-sala-de-recursos",
+      "title": "Escola Sesc",
+      "subtitle": "Espaço Maker / Sala de Recursos",
+      "label": "Escola Sesc — Espaço Maker / Sala de Recursos",
+      "thumbnail": "media/panorama_07CB0A0B_1233_656C_41A5_E527D7FB005A_t.webp",
+      "originalTitle": "Escola Sesc",
+      "originalSubtitle": "Espaço Maker - sala de Recursos "
+    },
+    {
+      "id": "panorama_01126573_1233_6FBD_41A9_ADA942464E76",
+      "index": 87,
+      "group": "palmas-escola-sesc-espaco-maker-sala-de-recursos",
+      "title": "Escola Sesc",
+      "subtitle": "Espaço Maker / Sala de Recursos",
+      "label": "Escola Sesc — Espaço Maker / Sala de Recursos",
+      "thumbnail": "media/panorama_01126573_1233_6FBD_41A9_ADA942464E76_t.webp",
+      "originalTitle": "Escola Sesc",
+      "originalSubtitle": "Espaço Maker - sala de Recursos "
+    },
+    {
+      "id": "panorama_067B9725_1235_6BA5_41AB_7306C6737D73",
+      "index": 88,
+      "group": "palmas-escola-sesc-sala-01",
+      "title": "Escola Sesc",
+      "subtitle": "Sala 01",
+      "label": "Escola Sesc — Sala 01",
+      "thumbnail": "media/panorama_067B9725_1235_6BA5_41AB_7306C6737D73_t.webp",
+      "originalTitle": "Escola Sesc",
+      "originalSubtitle": "Sala 01"
+    },
+    {
+      "id": "panorama_06DE78FF_1235_66A4_4167_99ED0C7C487C",
+      "index": 89,
+      "group": "palmas-escola-sesc-sala-01",
+      "title": "Escola Sesc",
+      "subtitle": "Sala 01",
+      "label": "Escola Sesc — Sala 01",
+      "thumbnail": "media/panorama_06DE78FF_1235_66A4_4167_99ED0C7C487C_t.webp",
+      "originalTitle": "Escola Sesc",
+      "originalSubtitle": "Sala 01"
+    },
+    {
+      "id": "panorama_06DFFF74_1235_5BA4_41AD_1D7692C7D5A2",
+      "index": 90,
+      "group": "palmas-escola-sesc-sala-01",
+      "title": "Escola Sesc",
+      "subtitle": "Sala 01",
+      "label": "Escola Sesc — Sala 01",
+      "thumbnail": "media/panorama_06DFFF74_1235_5BA4_41AD_1D7692C7D5A2_t.webp",
+      "originalTitle": "Escola Sesc",
+      "originalSubtitle": "Sala 01"
+    },
+    {
+      "id": "panorama_04DCB8AE_1233_A6A4_41A5_6CF8819EE302",
+      "index": 91,
+      "group": "palmas-escola-sesc-sala-02",
+      "title": "Escola Sesc",
+      "subtitle": "Sala 02",
+      "label": "Escola Sesc — Sala 02",
+      "thumbnail": "media/panorama_04DCB8AE_1233_A6A4_41A5_6CF8819EE302_t.webp",
+      "originalTitle": "Escola Sesc",
+      "originalSubtitle": "Sala 02"
+    },
+    {
+      "id": "panorama_066067EE_1233_6AA4_419E_9EC33840A2EF",
+      "index": 92,
+      "group": "palmas-escola-sesc-sala-02",
+      "title": "Escola Sesc",
+      "subtitle": "Sala 02",
+      "label": "Escola Sesc — Sala 02",
+      "thumbnail": "media/panorama_066067EE_1233_6AA4_419E_9EC33840A2EF_t.webp",
+      "originalTitle": "Escola Sesc",
+      "originalSubtitle": "Sala 02"
+    },
+    {
+      "id": "panorama_07F99D30_1215_FFBB_41A8_859495A9C59F",
+      "index": 93,
+      "group": "palmas-escola-sesc-sala-03",
+      "title": "Escola Sesc",
+      "subtitle": "Sala 03",
+      "label": "Escola Sesc — Sala 03",
+      "thumbnail": "media/panorama_07F99D30_1215_FFBB_41A8_859495A9C59F_t.webp",
+      "originalTitle": "Escola Sesc",
+      "originalSubtitle": "Sala 03"
+    },
+    {
+      "id": "panorama_064BC9B8_1215_E6AB_4153_00B0D240FD68",
+      "index": 94,
+      "group": "palmas-escola-sesc-sala-03",
+      "title": "Escola Sesc",
+      "subtitle": "Sala 03",
+      "label": "Escola Sesc — Sala 03",
+      "thumbnail": "media/panorama_064BC9B8_1215_E6AB_4153_00B0D240FD68_t.webp",
+      "originalTitle": "Escola Sesc",
+      "originalSubtitle": "Sala 03"
+    },
+    {
+      "id": "panorama_064B906B_1215_A5AC_41A7_7E31C414FADF",
+      "index": 95,
+      "group": "palmas-escola-sesc-sala-03",
+      "title": "Escola Sesc",
+      "subtitle": "Sala 03",
+      "label": "Escola Sesc — Sala 03",
+      "thumbnail": "media/panorama_064B906B_1215_A5AC_41A7_7E31C414FADF_t.webp",
+      "originalTitle": "Escola Sesc",
+      "originalSubtitle": "Sala 03"
+    },
+    {
+      "id": "panorama_0415EE8F_1217_7D64_418A_6CADF9347D12",
+      "index": 96,
+      "group": "palmas-escola-sesc-sala-04",
+      "title": "Escola Sesc",
+      "subtitle": "Sala 04",
+      "label": "Escola Sesc — Sala 04",
+      "thumbnail": "media/panorama_0415EE8F_1217_7D64_418A_6CADF9347D12_t.webp",
+      "originalTitle": "Escola Sesc",
+      "originalSubtitle": "Sala 04"
+    },
+    {
+      "id": "panorama_07FB6F81_1217_5B5C_4191_0399ACCFA7DF",
+      "index": 97,
+      "group": "palmas-escola-sesc-sala-04",
+      "title": "Escola Sesc",
+      "subtitle": "Sala 04",
+      "label": "Escola Sesc — Sala 04",
+      "thumbnail": "media/panorama_07FB6F81_1217_5B5C_4191_0399ACCFA7DF_t.webp",
+      "originalTitle": "Escola Sesc",
+      "originalSubtitle": "Sala 04"
+    },
+    {
+      "id": "panorama_075DBFA2_1212_FB5C_415A_1066E5A7ABB4",
+      "index": 98,
+      "group": "palmas-escola-sesc-sala-05",
+      "title": "Escola Sesc",
+      "subtitle": "Sala 05",
+      "label": "Escola Sesc — Sala 05",
+      "thumbnail": "media/panorama_075DBFA2_1212_FB5C_415A_1066E5A7ABB4_t.webp",
+      "originalTitle": "Escola Sesc",
+      "originalSubtitle": "Sala 05"
+    },
+    {
+      "id": "panorama_07BCCA81_1212_E55F_4198_BFF727F26843",
+      "index": 99,
+      "group": "palmas-escola-sesc-sala-05",
+      "title": "Escola Sesc",
+      "subtitle": "Sala 05",
+      "label": "Escola Sesc — Sala 05",
+      "thumbnail": "media/panorama_07BCCA81_1212_E55F_4198_BFF727F26843_t.webp",
+      "originalTitle": "Escola Sesc",
+      "originalSubtitle": "Sala 05"
+    },
+    {
+      "id": "panorama_07BCDCCD_1212_BEE4_419D_4E57CBE2F4CA",
+      "index": 100,
+      "group": "palmas-escola-sesc-sala-05",
+      "title": "Escola Sesc",
+      "subtitle": "Sala 05",
+      "label": "Escola Sesc — Sala 05",
+      "thumbnail": "media/panorama_07BCDCCD_1212_BEE4_419D_4E57CBE2F4CA_t.webp",
+      "originalTitle": "Escola Sesc",
+      "originalSubtitle": "Sala 05"
+    },
+    {
+      "id": "panorama_05D469D3_121D_A6FC_4180_83D0044BA696",
+      "index": 101,
+      "group": "palmas-escola-sesc-sala-06",
+      "title": "Escola Sesc",
+      "subtitle": "Sala 06",
+      "label": "Escola Sesc — Sala 06",
+      "thumbnail": "media/panorama_05D469D3_121D_A6FC_4180_83D0044BA696_t.webp",
+      "originalTitle": "IMG_20260628_111625_00_398",
+      "originalSubtitle": ""
+    },
+    {
+      "id": "panorama_0754AAD3_121D_7AFC_41AA_9F5CEBD666CD",
+      "index": 102,
+      "group": "palmas-escola-sesc-sala-06",
+      "title": "Escola Sesc",
+      "subtitle": "Sala 06",
+      "label": "Escola Sesc — Sala 06",
+      "thumbnail": "media/panorama_0754AAD3_121D_7AFC_41AA_9F5CEBD666CD_t.webp",
+      "originalTitle": "Escola Sesc",
+      "originalSubtitle": "Sala 06"
+    },
+    {
+      "id": "panorama_0445E8D6_1212_E6E4_4125_0DA90923B298",
+      "index": 103,
+      "group": "palmas-escola-sesc-sala-07",
+      "title": "Escola Sesc",
+      "subtitle": "Sala 07",
+      "label": "Escola Sesc — Sala 07",
+      "thumbnail": "media/panorama_0445E8D6_1212_E6E4_4125_0DA90923B298_t.webp",
+      "originalTitle": "Escola Sesc",
+      "originalSubtitle": "Sala 07"
+    },
+    {
+      "id": "panorama_0717D352_1212_ABFC_4191_12DD27354442",
+      "index": 104,
+      "group": "palmas-escola-sesc-sala-07",
+      "title": "Escola Sesc",
+      "subtitle": "Sala 07",
+      "label": "Escola Sesc — Sala 07",
+      "thumbnail": "media/panorama_0717D352_1212_ABFC_4191_12DD27354442_t.webp",
+      "originalTitle": "Escola Sesc",
+      "originalSubtitle": "Sala 07"
+    },
+    {
+      "id": "panorama_07169A71_1212_A5BC_41B2_157C5757C126",
+      "index": 105,
+      "group": "palmas-escola-sesc-sala-07",
+      "title": "Escola Sesc",
+      "subtitle": "Sala 07",
+      "label": "Escola Sesc — Sala 07",
+      "thumbnail": "media/panorama_07169A71_1212_A5BC_41B2_157C5757C126_t.webp",
+      "originalTitle": "Escola Sesc",
+      "originalSubtitle": "Sala 07"
+    },
+    {
+      "id": "panorama_0ADCE306_1213_AB64_41A3_2899C8A92A4A",
+      "index": 106,
+      "group": "palmas-escola-sesc-sala-08",
+      "title": "Escola Sesc",
+      "subtitle": "Sala 08",
+      "label": "Escola Sesc — Sala 08",
+      "thumbnail": "media/panorama_0ADCE306_1213_AB64_41A3_2899C8A92A4A_t.webp",
+      "originalTitle": "Escola Sesc",
+      "originalSubtitle": "Sala 08"
+    },
+    {
+      "id": "panorama_047F7D78_1213_5FAC_41A6_C4CB1D1667BF",
+      "index": 107,
+      "group": "palmas-escola-sesc-sala-08",
+      "title": "Escola Sesc",
+      "subtitle": "Sala 08",
+      "label": "Escola Sesc — Sala 08",
+      "thumbnail": "media/panorama_047F7D78_1213_5FAC_41A6_C4CB1D1667BF_t.webp",
+      "originalTitle": "Escola Sesc",
+      "originalSubtitle": "Sala 08"
+    },
+    {
+      "id": "panorama_047FF471_1213_6DBD_41A7_CCE7DF37CD79",
+      "index": 108,
+      "group": "palmas-escola-sesc-sala-08",
+      "title": "Escola Sesc",
+      "subtitle": "Sala 08",
+      "label": "Escola Sesc — Sala 08",
+      "thumbnail": "media/panorama_047FF471_1213_6DBD_41A7_CCE7DF37CD79_t.webp",
+      "originalTitle": "Escola Sesc",
+      "originalSubtitle": "Sala 08"
+    },
+    {
+      "id": "panorama_05B04E54_120E_BDE4_41A5_06B5696D9C70",
+      "index": 109,
+      "group": "palmas-hall-piso-superior",
+      "title": "Hall Piso Superior",
+      "subtitle": "",
+      "label": "Hall Piso Superior",
+      "thumbnail": "media/panorama_05B04E54_120E_BDE4_41A5_06B5696D9C70_t.webp",
+      "originalTitle": "Hall Piso Superior",
+      "originalSubtitle": ""
+    },
+    {
+      "id": "panorama_04113D65_120F_5FA5_41A7_8BDB7D4B4E51",
+      "index": 110,
+      "group": "palmas-hall-piso-superior",
+      "title": "Hall Piso Superior",
+      "subtitle": "",
+      "label": "Hall Piso Superior",
+      "thumbnail": "media/panorama_04113D65_120F_5FA5_41A7_8BDB7D4B4E51_t.webp",
+      "originalTitle": "Hall Piso Superior",
+      "originalSubtitle": ""
+    },
+    {
+      "id": "panorama_0B4ACEB9_13F3_7AAD_418C_2F8D8C1B7310",
+      "index": 111,
+      "group": "palmas-lanchonete",
+      "title": "Lanchonete",
+      "subtitle": "",
+      "label": "Lanchonete",
+      "thumbnail": "media/panorama_0B4ACEB9_13F3_7AAD_418C_2F8D8C1B7310_t.webp",
+      "originalTitle": "Lanchonete",
+      "originalSubtitle": ""
+    },
+    {
+      "id": "panorama_04405FFA_13F3_5AAF_4156_1462494FE74D",
+      "index": 112,
+      "group": "palmas-lanchonete",
+      "title": "Lanchonete",
+      "subtitle": "",
+      "label": "Lanchonete",
+      "thumbnail": "media/panorama_04405FFA_13F3_5AAF_4156_1462494FE74D_t.webp",
+      "originalTitle": "Lanchonete",
+      "originalSubtitle": ""
+    },
+    {
+      "id": "panorama_043E8970_13F2_A7BC_41A5_D54E6B447B94",
+      "index": 113,
+      "group": "palmas-lanchonete",
+      "title": "Lanchonete",
+      "subtitle": "",
+      "label": "Lanchonete",
+      "thumbnail": "media/panorama_043E8970_13F2_A7BC_41A5_D54E6B447B94_t.webp",
+      "originalTitle": "Lanchonete",
+      "originalSubtitle": ""
+    },
+    {
+      "id": "panorama_043EAFFE_13F2_BAA7_4193_E18218AADD99",
+      "index": 114,
+      "group": "palmas-lanchonete",
+      "title": "Lanchonete",
+      "subtitle": "",
+      "label": "Lanchonete",
+      "thumbnail": "media/panorama_043EAFFE_13F2_BAA7_4193_E18218AADD99_t.webp",
+      "originalTitle": "Lanchonete",
+      "originalSubtitle": ""
+    },
+    {
+      "id": "panorama_043E66E5_13F2_AAA5_41A3_6E7D8BD80C74",
+      "index": 115,
+      "group": "palmas-lanchonete",
+      "title": "Lanchonete",
+      "subtitle": "",
+      "label": "Lanchonete",
+      "thumbnail": "media/panorama_043E66E5_13F2_AAA5_41A3_6E7D8BD80C74_t.webp",
+      "originalTitle": "Lanchonete",
+      "originalSubtitle": ""
+    },
+    {
+      "id": "panorama_04F62744_13F7_ABE4_41A3_90B6B911644D",
+      "index": 116,
+      "group": "palmas-nucleo-de-musica",
+      "title": "Núcleo de Música",
+      "subtitle": "",
+      "label": "Núcleo de Música",
+      "thumbnail": "media/panorama_04F62744_13F7_ABE4_41A3_90B6B911644D_t.webp",
+      "originalTitle": "Núcleo de Música",
+      "originalSubtitle": ""
+    },
+    {
+      "id": "panorama_04846806_13F7_6567_4166_72AD1DB2FDFA",
+      "index": 117,
+      "group": "palmas-nucleo-de-musica",
+      "title": "Núcleo de Música",
+      "subtitle": "",
+      "label": "Núcleo de Música",
+      "thumbnail": "media/panorama_04846806_13F7_6567_4166_72AD1DB2FDFA_t.webp",
+      "originalTitle": "Núcleo de Música",
+      "originalSubtitle": ""
+    },
+    {
+      "id": "panorama_048737C8_13F7_6AEB_41A9_78120AB67957",
+      "index": 118,
+      "group": "palmas-nucleo-de-musica-teclado",
+      "title": "Núcleo de Música",
+      "subtitle": "Teclado",
+      "label": "Núcleo de Música — Teclado",
+      "thumbnail": "media/panorama_048737C8_13F7_6AEB_41A9_78120AB67957_t.webp",
+      "originalTitle": "Núcleo de Música",
+      "originalSubtitle": "Teclado"
+    },
+    {
+      "id": "panorama_04871E86_13F7_5D67_41A4_7B5576B4ADBE",
+      "index": 119,
+      "group": "palmas-nucleo-de-musica-teclado",
+      "title": "Núcleo de Música",
+      "subtitle": "teclado",
+      "label": "Núcleo de Música — teclado",
+      "thumbnail": "media/panorama_04871E86_13F7_5D67_41A4_7B5576B4ADBE_t.webp",
+      "originalTitle": "Núcleo de Música",
+      "originalSubtitle": "teclado"
+    },
+    {
+      "id": "panorama_0486E5A6_13F6_AEA7_4174_FA36C4EA4585",
+      "index": 120,
+      "group": "palmas-nucleo-de-musica-viola-e-violao",
+      "title": "Núcleo de Música",
+      "subtitle": "Viola e violão",
+      "label": "Núcleo de Música — Viola e violão",
+      "thumbnail": "media/panorama_0486E5A6_13F6_AEA7_4174_FA36C4EA4585_t.webp",
+      "originalTitle": "Núcleo de Música",
+      "originalSubtitle": "Viola e violão "
+    },
+    {
+      "id": "panorama_04850CBD_13F6_BEA4_419C_EFBD9989BAC0",
+      "index": 121,
+      "group": "palmas-nucleo-de-musica-viola-e-violao",
+      "title": "Núcleo de Música",
+      "subtitle": "Viola e violão",
+      "label": "Núcleo de Música — Viola e violão",
+      "thumbnail": "media/panorama_04850CBD_13F6_BEA4_419C_EFBD9989BAC0_t.webp",
+      "originalTitle": "Núcleo de Música",
+      "originalSubtitle": "Viola e violão "
+    },
+    {
+      "id": "panorama_0486E3F7_13F6_AAA5_41A0_8B442218C4DC",
+      "index": 122,
+      "group": "palmas-nucleo-de-musica-coral",
+      "title": "Núcleo de Música",
+      "subtitle": "Coral",
+      "label": "Núcleo de Música — Coral",
+      "thumbnail": "media/panorama_0486E3F7_13F6_AAA5_41A0_8B442218C4DC_t.webp",
+      "originalTitle": "Núcleo de Música",
+      "originalSubtitle": "Coral "
+    },
+    {
+      "id": "panorama_04850B31_13F6_DBBD_41AF_365CA50E25D6",
+      "index": 123,
+      "group": "palmas-nucleo-de-musica-coral",
+      "title": "Núcleo de Música",
+      "subtitle": "Coral",
+      "label": "Núcleo de Música — Coral",
+      "thumbnail": "media/panorama_04850B31_13F6_DBBD_41AF_365CA50E25D6_t.webp",
+      "originalTitle": "Núcleo de Música",
+      "originalSubtitle": "Coral "
+    },
+    {
+      "id": "panorama_04852211_13F6_E57C_4187_0C1D8D9501E5",
+      "index": 124,
+      "group": "palmas-nucleo-de-musica-coral",
+      "title": "Núcleo de Música",
+      "subtitle": "Coral",
+      "label": "Núcleo de Música — Coral",
+      "thumbnail": "media/panorama_04852211_13F6_E57C_4187_0C1D8D9501E5_t.webp",
+      "originalTitle": "Núcleo de Música",
+      "originalSubtitle": "Coral "
+    },
+    {
+      "id": "panorama_09635A41_13FD_65DD_4189_FC2BE1540442",
+      "index": 125,
+      "group": "palmas-odontologia",
+      "title": "Odontologia",
+      "subtitle": "",
+      "label": "Odontologia",
+      "thumbnail": "media/panorama_09635A41_13FD_65DD_4189_FC2BE1540442_t.webp",
+      "originalTitle": "Odontologia",
+      "originalSubtitle": ""
+    },
+    {
+      "id": "panorama_0B0E6503_13FD_AF5D_4186_19601E41B287",
+      "index": 126,
+      "group": "palmas-odontologia",
+      "title": "Odontologia",
+      "subtitle": "",
+      "label": "Odontologia",
+      "thumbnail": "media/panorama_0B0E6503_13FD_AF5D_4186_19601E41B287_t.webp",
+      "originalTitle": "Odontologia",
+      "originalSubtitle": ""
+    },
+    {
+      "id": "panorama_0B0F415B_13FD_A7EC_416B_197E11FDB220",
+      "index": 127,
+      "group": "palmas-odontologia",
+      "title": "Odontologia",
+      "subtitle": "",
+      "label": "Odontologia",
+      "thumbnail": "media/panorama_0B0F415B_13FD_A7EC_416B_197E11FDB220_t.webp",
+      "originalTitle": "Odontologia",
+      "originalSubtitle": ""
+    },
+    {
+      "id": "panorama_0B0E87E2_13FD_AADC_41A7_8E838225BC56",
+      "index": 128,
+      "group": "palmas-odontologia",
+      "title": "Odontologia",
+      "subtitle": "",
+      "label": "Odontologia",
+      "thumbnail": "media/panorama_0B0E87E2_13FD_AADC_41A7_8E838225BC56_t.webp",
+      "originalTitle": "Odontologia",
+      "originalSubtitle": ""
+    },
+    {
+      "id": "panorama_0B0F7E92_13FD_DD7C_4138_D8D8D95DA400",
+      "index": 129,
+      "group": "palmas-odontologia",
+      "title": "Odontologia",
+      "subtitle": "",
+      "label": "Odontologia",
+      "thumbnail": "media/panorama_0B0F7E92_13FD_DD7C_4138_D8D8D95DA400_t.webp",
+      "originalTitle": "Odontologia",
+      "originalSubtitle": ""
+    },
+    {
+      "id": "panorama_0B0E954C_13FD_EFE4_41B2_34F109AD50D8",
+      "index": 130,
+      "group": "palmas-odontologia",
+      "title": "Odontologia",
+      "subtitle": "",
+      "label": "Odontologia",
+      "thumbnail": "media/panorama_0B0E954C_13FD_EFE4_41B2_34F109AD50D8_t.webp",
+      "originalTitle": "Odontologia",
+      "originalSubtitle": ""
+    },
+    {
+      "id": "panorama_0B0EAC13_13FD_FD7C_41A8_0B85E35C8E17",
+      "index": 131,
+      "group": "palmas-odontologia",
+      "title": "Odontologia",
+      "subtitle": "",
+      "label": "Odontologia",
+      "thumbnail": "media/panorama_0B0EAC13_13FD_FD7C_41A8_0B85E35C8E17_t.webp",
+      "originalTitle": "Odontologia",
+      "originalSubtitle": ""
+    },
+    {
+      "id": "panorama_0B0E9303_13FD_EB5C_419F_5E056271E6E6",
+      "index": 132,
+      "group": "palmas-odontologia",
+      "title": "Odontologia",
+      "subtitle": "",
+      "label": "Odontologia",
+      "thumbnail": "media/panorama_0B0E9303_13FD_EB5C_419F_5E056271E6E6_t.webp",
+      "originalTitle": "Odontologia",
+      "originalSubtitle": ""
+    },
+    {
+      "id": "panorama_0B0EA99C_13FD_E764_4174_4CEC4AB674CD",
+      "index": 133,
+      "group": "palmas-odontologia",
+      "title": "Odontologia",
+      "subtitle": "",
+      "label": "Odontologia",
+      "thumbnail": "media/panorama_0B0EA99C_13FD_E764_4174_4CEC4AB674CD_t.webp",
+      "originalTitle": "Odontologia",
+      "originalSubtitle": ""
+    },
+    {
+      "id": "panorama_0B0E808F_13FD_A564_4178_A20E0FEE067D",
+      "index": 134,
+      "group": "palmas-odontologia",
+      "title": "Odontologia",
+      "subtitle": "",
+      "label": "Odontologia",
+      "thumbnail": "media/panorama_0B0E808F_13FD_A564_4178_A20E0FEE067D_t.webp",
+      "originalTitle": "Odontologia",
+      "originalSubtitle": ""
+    },
+    {
+      "id": "panorama_0B0ED77A_13FD_ABAF_41B1_EFD56C6AFD82",
+      "index": 135,
+      "group": "palmas-odontologia",
+      "title": "Odontologia",
+      "subtitle": "",
+      "label": "Odontologia",
+      "thumbnail": "media/panorama_0B0ED77A_13FD_ABAF_41B1_EFD56C6AFD82_t.webp",
+      "originalTitle": "Odontologia",
+      "originalSubtitle": ""
+    },
+    {
+      "id": "panorama_0BB66D7F_13F3_5FA4_4175_D371A6A79FD2",
+      "index": 136,
+      "group": "palmas-piscinas",
+      "title": "Piscinas",
+      "subtitle": "",
+      "label": "Piscinas",
+      "thumbnail": "media/panorama_0BB66D7F_13F3_5FA4_4175_D371A6A79FD2_t.webp",
+      "originalTitle": "Piscinas",
+      "originalSubtitle": ""
+    },
+    {
+      "id": "panorama_0B7B4CD8_13F3_7EEC_41AA_600501196062",
+      "index": 137,
+      "group": "palmas-piscinas",
+      "title": "Piscinas",
+      "subtitle": "",
+      "label": "Piscinas",
+      "thumbnail": "media/panorama_0B7B4CD8_13F3_7EEC_41AA_600501196062_t.webp",
+      "originalTitle": "Piscinas",
+      "originalSubtitle": ""
+    },
+    {
+      "id": "panorama_0B7A7832_13F3_65BC_4195_35D4DBE41AF7",
+      "index": 138,
+      "group": "palmas-piscinas",
+      "title": "Piscinas",
+      "subtitle": "",
+      "label": "Piscinas",
+      "thumbnail": "media/panorama_0B7A7832_13F3_65BC_4195_35D4DBE41AF7_t.webp",
+      "originalTitle": "Piscinas",
+      "originalSubtitle": ""
+    },
+    {
+      "id": "panorama_0B7AE211_13F3_A57C_41A0_6DED590F1906",
+      "index": 139,
+      "group": "palmas-piscinas",
+      "title": "Piscinas",
+      "subtitle": "",
+      "label": "Piscinas",
+      "thumbnail": "media/panorama_0B7AE211_13F3_A57C_41A0_6DED590F1906_t.webp",
+      "originalTitle": "Piscinas",
+      "originalSubtitle": ""
+    },
+    {
+      "id": "panorama_0B7978EF_13F3_A6A5_41A0_4DB71ABFBD8C",
+      "index": 140,
+      "group": "palmas-piscinas",
+      "title": "Piscinas",
+      "subtitle": "",
+      "label": "Piscinas",
+      "thumbnail": "media/panorama_0B7978EF_13F3_A6A5_41A0_4DB71ABFBD8C_t.webp",
+      "originalTitle": "Piscinas",
+      "originalSubtitle": ""
+    },
+    {
+      "id": "panorama_0B7AF006_13F3_A564_41B0_0D7703E25C76",
+      "index": 141,
+      "group": "palmas-piscinas",
+      "title": "Piscinas",
+      "subtitle": "",
+      "label": "Piscinas",
+      "thumbnail": "media/panorama_0B7AF006_13F3_A564_41B0_0D7703E25C76_t.webp",
+      "originalTitle": "Piscinas",
+      "originalSubtitle": ""
+    },
+    {
+      "id": "panorama_0B7AF741_13F3_ABDC_4187_9377B8DFC00F",
+      "index": 142,
+      "group": "palmas-piscinas",
+      "title": "Piscinas",
+      "subtitle": "",
+      "label": "Piscinas",
+      "thumbnail": "media/panorama_0B7AF741_13F3_ABDC_4187_9377B8DFC00F_t.webp",
+      "originalTitle": "Piscinas",
+      "originalSubtitle": ""
+    },
+    {
+      "id": "panorama_0B7AFE10_13F3_DD7C_41A6_B0355F37402D",
+      "index": 143,
+      "group": "palmas-piscinas",
+      "title": "Piscinas",
+      "subtitle": "",
+      "label": "Piscinas",
+      "thumbnail": "media/panorama_0B7AFE10_13F3_DD7C_41A6_B0355F37402D_t.webp",
+      "originalTitle": "Piscinas",
+      "originalSubtitle": ""
+    },
+    {
+      "id": "panorama_08505120_120D_675C_419D_30E259745643",
+      "index": 144,
+      "group": "palmas-projeto-de-vida",
+      "title": "Projeto de Vida",
+      "subtitle": "",
+      "label": "Projeto de Vida",
+      "thumbnail": "media/panorama_08505120_120D_675C_419D_30E259745643_t.webp",
+      "originalTitle": "Projeto de Vida",
+      "originalSubtitle": ""
+    },
+    {
+      "id": "panorama_0BD7C1BE_120D_A6A7_4185_81A4A75F2CD9",
+      "index": 145,
+      "group": "palmas-projeto-de-vida",
+      "title": "Projeto de Vida",
+      "subtitle": "",
+      "label": "Projeto de Vida",
+      "thumbnail": "media/panorama_0BD7C1BE_120D_A6A7_4185_81A4A75F2CD9_t.webp",
+      "originalTitle": "Projeto de Vida",
+      "originalSubtitle": ""
+    },
+    {
+      "id": "panorama_0BDA6E4D_120D_BDE5_41AA_075E1F5EBA20",
+      "index": 146,
+      "group": "palmas-projeto-de-vida",
+      "title": "Projeto de Vida",
+      "subtitle": "",
+      "label": "Projeto de Vida",
+      "thumbnail": "media/panorama_0BDA6E4D_120D_BDE5_41AA_075E1F5EBA20_t.webp",
+      "originalTitle": "Projeto de Vida",
+      "originalSubtitle": ""
+    },
+    {
+      "id": "panorama_0AF8A9F6_1212_A6A4_41AF_BC5F50A149C3",
+      "index": 147,
+      "group": "palmas-rampa-de-acesso",
+      "title": "Rampa de acesso",
+      "subtitle": "",
+      "label": "Rampa de acesso",
+      "thumbnail": "media/panorama_0AF8A9F6_1212_A6A4_41AF_BC5F50A149C3_t.webp",
+      "originalTitle": "Rampa de acesso",
+      "originalSubtitle": ""
+    },
+    {
+      "id": "panorama_08625EFB_1215_BAAC_4197_65AB7E953585",
+      "index": 148,
+      "group": "palmas-restaurante",
+      "title": "Restaurante",
+      "subtitle": "",
+      "label": "Restaurante",
+      "thumbnail": "media/panorama_08625EFB_1215_BAAC_4197_65AB7E953585_t.webp",
+      "originalTitle": "Restaurante",
+      "originalSubtitle": ""
+    },
+    {
+      "id": "panorama_0A3A1AD9_1215_DAEC_41AF_651EE0D91A36",
+      "index": 149,
+      "group": "palmas-restaurante",
+      "title": "Restaurante",
+      "subtitle": "",
+      "label": "Restaurante",
+      "thumbnail": "media/panorama_0A3A1AD9_1215_DAEC_41AF_651EE0D91A36_t.webp",
+      "originalTitle": "Restaurante",
+      "originalSubtitle": ""
+    },
+    {
+      "id": "panorama_0A3AC1BF_1215_E6A4_4189_F7F891C63C1D",
+      "index": 150,
+      "group": "palmas-restaurante",
+      "title": "Restaurante",
+      "subtitle": "",
+      "label": "Restaurante",
+      "thumbnail": "media/panorama_0A3AC1BF_1215_E6A4_4189_F7F891C63C1D_t.webp",
+      "originalTitle": "Restaurante",
+      "originalSubtitle": ""
+    },
+    {
+      "id": "panorama_0A3A9885_1215_E564_41B0_A60B9B33FAA8",
+      "index": 151,
+      "group": "palmas-restaurante",
+      "title": "Restaurante",
+      "subtitle": "",
+      "label": "Restaurante",
+      "thumbnail": "media/panorama_0A3A9885_1215_E564_41B0_A60B9B33FAA8_t.webp",
+      "originalTitle": "Restaurante",
+      "originalSubtitle": ""
+    },
+    {
+      "id": "panorama_0A3ADF3A_1215_FBAF_4131_F7495D60B8F0",
+      "index": 152,
+      "group": "palmas-restaurante",
+      "title": "Restaurante",
+      "subtitle": "",
+      "label": "Restaurante",
+      "thumbnail": "media/panorama_0A3ADF3A_1215_FBAF_4131_F7495D60B8F0_t.webp",
+      "originalTitle": "Restaurante",
+      "originalSubtitle": ""
+    },
+    {
+      "id": "panorama_0A3AE61A_1215_ED6F_41B2_AE68BAE9E4EE",
+      "index": 153,
+      "group": "palmas-restaurante",
+      "title": "Restaurante",
+      "subtitle": "",
+      "label": "Restaurante",
+      "thumbnail": "media/panorama_0A3AE61A_1215_ED6F_41B2_AE68BAE9E4EE_t.webp",
+      "originalTitle": "Restaurante",
+      "originalSubtitle": ""
+    },
+    {
+      "id": "panorama_0A3ADCE5_1215_DEA5_41AA_8CDD3868CBC4",
+      "index": 154,
+      "group": "palmas-restaurante",
+      "title": "Restaurante",
+      "subtitle": "",
+      "label": "Restaurante",
+      "thumbnail": "media/panorama_0A3ADCE5_1215_DEA5_41AA_8CDD3868CBC4_t.webp",
+      "originalTitle": "Restaurante",
+      "originalSubtitle": ""
+    },
+    {
+      "id": "panorama_0A3AF372_1215_ABBC_41AE_6D3310904727",
+      "index": 155,
+      "group": "palmas-restaurante",
+      "title": "Restaurante",
+      "subtitle": "",
+      "label": "Restaurante",
+      "thumbnail": "media/panorama_0A3AF372_1215_ABBC_41AE_6D3310904727_t.webp",
+      "originalTitle": "Restaurante",
+      "originalSubtitle": ""
+    },
+    {
+      "id": "panorama_0A3A4A50_1215_A5FB_41AB_4767F9C33068",
+      "index": 156,
+      "group": "palmas-restaurante",
+      "title": "Restaurante",
+      "subtitle": "",
+      "label": "Restaurante",
+      "thumbnail": "media/panorama_0A3A4A50_1215_A5FB_41AB_4767F9C33068_t.webp",
+      "originalTitle": "Restaurante",
+      "originalSubtitle": ""
+    },
+    {
+      "id": "panorama_0A3A80FD_1215_A6A5_41A2_5F4654BF7335",
+      "index": 157,
+      "group": "palmas-restaurante",
+      "title": "Restaurante",
+      "subtitle": "",
+      "label": "Restaurante",
+      "thumbnail": "media/panorama_0A3A80FD_1215_A6A5_41A2_5F4654BF7335_t.webp",
+      "originalTitle": "Restaurante",
+      "originalSubtitle": ""
+    },
+    {
+      "id": "panorama_0A3A17A7_1215_AAA4_4180_61330BE4D18A",
+      "index": 158,
+      "group": "palmas-restaurante",
+      "title": "Restaurante",
+      "subtitle": "",
+      "label": "Restaurante",
+      "thumbnail": "media/panorama_0A3A17A7_1215_AAA4_4180_61330BE4D18A_t.webp",
+      "originalTitle": "Restaurante",
+      "originalSubtitle": ""
+    },
+    {
+      "id": "panorama_0F045EE0_121D_BADC_4196_130A6CC28A5C",
+      "index": 159,
+      "group": "palmas-sala-de-video",
+      "title": "Sala de vídeo",
+      "subtitle": "",
+      "label": "Sala de vídeo",
+      "thumbnail": "media/panorama_0F045EE0_121D_BADC_4196_130A6CC28A5C_t.webp",
+      "originalTitle": "Sala de vídeo",
+      "originalSubtitle": ""
+    },
+    {
+      "id": "panorama_0AF217CF_121D_AAE5_4174_6B548E11E59E",
+      "index": 160,
+      "group": "palmas-sala-de-video",
+      "title": "Sala de vídeo",
+      "subtitle": "",
+      "label": "Sala de vídeo",
+      "thumbnail": "media/panorama_0AF217CF_121D_AAE5_4174_6B548E11E59E_t.webp",
+      "originalTitle": "Sala de vídeo",
+      "originalSubtitle": ""
+    },
+    {
+      "id": "panorama_08317A76_121F_65A4_41B0_473C09C50435",
+      "index": 161,
+      "group": "palmas-sala-multiuso-01",
+      "title": "Sala Multiuso 01",
+      "subtitle": "",
+      "label": "Sala Multiuso 01",
+      "thumbnail": "media/panorama_08317A76_121F_65A4_41B0_473C09C50435_t.webp",
+      "originalTitle": "Sala Multiuso 01",
+      "originalSubtitle": ""
+    },
+    {
+      "id": "panorama_0AF04DE4_121F_5EA4_41AE_2A80D24CADDD",
+      "index": 162,
+      "group": "palmas-sala-multiuso-01",
+      "title": "Sala Multiuso 01",
+      "subtitle": "",
+      "label": "Sala Multiuso 01",
+      "thumbnail": "media/panorama_0AF04DE4_121F_5EA4_41AE_2A80D24CADDD_t.webp",
+      "originalTitle": "Sala Multiuso 01",
+      "originalSubtitle": ""
+    },
+    {
+      "id": "panorama_0AF38C25_121F_BDA4_4199_D7C14AB2A790",
+      "index": 163,
+      "group": "palmas-sala-multiuso-01",
+      "title": "Sala Multiuso 01",
+      "subtitle": "",
+      "label": "Sala Multiuso 01",
+      "thumbnail": "media/panorama_0AF38C25_121F_BDA4_4199_D7C14AB2A790_t.webp",
+      "originalTitle": "Sala Multiuso 01",
+      "originalSubtitle": ""
+    },
+    {
+      "id": "panorama_0850360C_121D_AD6B_41AC_296DA362E8E6",
+      "index": 164,
+      "group": "palmas-sala-multiuso-02",
+      "title": "Sala Multiuso 02",
+      "subtitle": "",
+      "label": "Sala Multiuso 02",
+      "thumbnail": "media/panorama_0850360C_121D_AD6B_41AC_296DA362E8E6_t.webp",
+      "originalTitle": "Sala Multiuso 02",
+      "originalSubtitle": ""
+    },
+    {
+      "id": "panorama_09417700_121D_AB5D_41A9_962CB49814CC",
+      "index": 165,
+      "group": "palmas-sala-multiuso-02",
+      "title": "Sala Multiuso 02",
+      "subtitle": "",
+      "label": "Sala Multiuso 02",
+      "thumbnail": "media/panorama_09417700_121D_AB5D_41A9_962CB49814CC_t.webp",
+      "originalTitle": "Sala Multiuso 02",
+      "originalSubtitle": ""
+    },
+    {
+      "id": "panorama_0F54585A_1212_E5EF_41AE_B227E966D322",
+      "index": 166,
+      "group": "palmas-salas-projeto-especial",
+      "title": "Salas Projeto Especial",
+      "subtitle": "",
+      "label": "Salas Projeto Especial",
+      "thumbnail": "media/panorama_0F54585A_1212_E5EF_41AE_B227E966D322_t.webp",
+      "originalTitle": "Salas Projeto Especial",
+      "originalSubtitle": ""
+    },
+    {
+      "id": "panorama_09C932FE_1212_EAA7_41B2_E481AF09C032",
+      "index": 167,
+      "group": "palmas-salas-projeto-especial",
+      "title": "Salas Projeto Especial",
+      "subtitle": "",
+      "label": "Salas Projeto Especial",
+      "thumbnail": "media/panorama_09C932FE_1212_EAA7_41B2_E481AF09C032_t.webp",
+      "originalTitle": "Salas Projeto Especial",
+      "originalSubtitle": ""
+    },
+    {
+      "id": "panorama_09C97427_1212_ADA5_41AE_9EE6EA4133BB",
+      "index": 168,
+      "group": "palmas-salas-projeto-especial",
+      "title": "Salas Projeto Especial",
+      "subtitle": "",
+      "label": "Salas Projeto Especial",
+      "thumbnail": "media/panorama_09C97427_1212_ADA5_41AE_9EE6EA4133BB_t.webp",
+      "originalTitle": "Salas Projeto Especial",
+      "originalSubtitle": ""
+    },
+    {
+      "id": "panorama_09D6210A_1212_A76D_41A5_7042D80ECD3A",
+      "index": 169,
+      "group": "palmas-salas-projeto-especial",
+      "title": "Salas Projeto Especial",
+      "subtitle": "",
+      "label": "Salas Projeto Especial",
+      "thumbnail": "media/panorama_09D6210A_1212_A76D_41A5_7042D80ECD3A_t.webp",
+      "originalTitle": "Salas Projeto Especial",
+      "originalSubtitle": ""
+    },
+    {
+      "id": "panorama_09D63808_1212_A56C_41B0_FAE4E2953764",
+      "index": 170,
+      "group": "palmas-salas-projeto-especial",
+      "title": "Salas Projeto Especial",
+      "subtitle": "",
+      "label": "Salas Projeto Especial",
+      "thumbnail": "media/panorama_09D63808_1212_A56C_41B0_FAE4E2953764_t.webp",
+      "originalTitle": "Salas Projeto Especial",
+      "originalSubtitle": ""
+    },
+    {
+      "id": "panorama_0F6723F4_1216_AABB_41A8_8AEC5EF5F2F0",
+      "index": 171,
+      "group": "palmas-secretaria",
+      "title": "Secretaria",
+      "subtitle": "",
+      "label": "Secretaria",
+      "thumbnail": "media/panorama_0F6723F4_1216_AABB_41A8_8AEC5EF5F2F0_t.webp",
+      "originalTitle": "Secretária",
+      "originalSubtitle": ""
+    },
+    {
+      "id": "panorama_08261362_1216_EBDF_4193_C61F6C6DA0EE",
+      "index": 172,
+      "group": "palmas-secretaria",
+      "title": "Secretaria",
+      "subtitle": "",
+      "label": "Secretaria",
+      "thumbnail": "media/panorama_08261362_1216_EBDF_4193_C61F6C6DA0EE_t.webp",
+      "originalTitle": "Secretária",
+      "originalSubtitle": ""
+    },
+    {
+      "id": "panorama_0F5461B5_1215_66A5_41AD_266B578B8B72",
+      "index": 173,
+      "group": "palmas-teatro",
+      "title": "Teatro",
+      "subtitle": "",
+      "label": "Teatro",
+      "thumbnail": "media/panorama_0F5461B5_1215_66A5_41AD_266B578B8B72_t.webp",
+      "originalTitle": "Teatro",
+      "originalSubtitle": ""
+    },
+    {
+      "id": "panorama_08A8AF66_1215_5BA7_4163_0C95CCB23517",
+      "index": 174,
+      "group": "palmas-teatro",
+      "title": "Teatro",
+      "subtitle": "",
+      "label": "Teatro",
+      "thumbnail": "media/panorama_08A8AF66_1215_5BA7_4163_0C95CCB23517_t.webp",
+      "originalTitle": "Teatro",
+      "originalSubtitle": ""
+    },
+    {
+      "id": "panorama_08AEC00F_1212_A564_418B_DED10BFB7838",
+      "index": 175,
+      "group": "palmas-teatro",
+      "title": "Teatro",
+      "subtitle": "",
+      "label": "Teatro",
+      "thumbnail": "media/panorama_08AEC00F_1212_A564_418B_DED10BFB7838_t.webp",
+      "originalTitle": "Teatro",
+      "originalSubtitle": ""
+    },
+    {
+      "id": "panorama_08ADF6C3_1212_AADC_415E_80F2C81878F2",
+      "index": 176,
+      "group": "palmas-teatro",
+      "title": "Teatro",
+      "subtitle": "",
+      "label": "Teatro",
+      "thumbnail": "media/panorama_08ADF6C3_1212_AADC_415E_80F2C81878F2_t.webp",
+      "originalTitle": "Teatro",
+      "originalSubtitle": ""
+    },
+    {
+      "id": "panorama_08ADBDFF_1212_DEA4_41AC_8363C076A2B7",
+      "index": 177,
+      "group": "palmas-teatro",
+      "title": "Teatro",
+      "subtitle": "",
+      "label": "Teatro",
+      "thumbnail": "media/panorama_08ADBDFF_1212_DEA4_41AC_8363C076A2B7_t.webp",
+      "originalTitle": "Teatro",
+      "originalSubtitle": ""
+    },
+    {
+      "id": "panorama_08ADD4CE_1212_EEE7_4177_77B27CB51F93",
+      "index": 178,
+      "group": "palmas-teatro",
+      "title": "Teatro",
+      "subtitle": "",
+      "label": "Teatro",
+      "thumbnail": "media/panorama_08ADD4CE_1212_EEE7_4177_77B27CB51F93_t.webp",
+      "originalTitle": "Teatro",
+      "originalSubtitle": ""
+    },
+    {
+      "id": "panorama_08ADEC21_1212_FD5D_41AC_064ABAC34C15",
+      "index": 179,
+      "group": "palmas-teatro",
+      "title": "Teatro",
+      "subtitle": "",
+      "label": "Teatro",
+      "thumbnail": "media/panorama_08ADEC21_1212_FD5D_41AC_064ABAC34C15_t.webp",
+      "originalTitle": "Teatro",
+      "originalSubtitle": ""
+    },
+    {
+      "id": "panorama_08ADC347_1212_EBE4_419A_2EA497BEDBE0",
+      "index": 180,
+      "group": "palmas-teatro",
+      "title": "Teatro",
+      "subtitle": "",
+      "label": "Teatro",
+      "thumbnail": "media/panorama_08ADC347_1212_EBE4_419A_2EA497BEDBE0_t.webp",
+      "originalTitle": "Teatro",
+      "originalSubtitle": ""
+    },
+    {
+      "id": "panorama_08ADCADF_1212_DAE4_41AE_B64463A87CAA",
+      "index": 181,
+      "group": "palmas-teatro",
+      "title": "Teatro",
+      "subtitle": "",
+      "label": "Teatro",
+      "thumbnail": "media/panorama_08ADCADF_1212_DAE4_41AE_B64463A87CAA_t.webp",
+      "originalTitle": "Teatro",
+      "originalSubtitle": ""
+    },
+    {
+      "id": "panorama_08AE620F_1212_A565_41AE_DD1764BAF76E",
+      "index": 182,
+      "group": "palmas-teatro",
+      "title": "Teatro",
+      "subtitle": "",
+      "label": "Teatro",
+      "thumbnail": "media/panorama_08AE620F_1212_A565_41AE_DD1764BAF76E_t.webp",
+      "originalTitle": "Teatro",
+      "originalSubtitle": ""
+    },
+    {
+      "id": "panorama_08AE5922_1212_A75F_41B2_1634BFB0931A",
+      "index": 183,
+      "group": "palmas-teatro",
+      "title": "Teatro",
+      "subtitle": "",
+      "label": "Teatro",
+      "thumbnail": "media/panorama_08AE5922_1212_A75F_41B2_1634BFB0931A_t.webp",
+      "originalTitle": "Teatro",
+      "originalSubtitle": ""
+    },
+    {
+      "id": "panorama_336C4133_1235_67BC_41A7_1A4E45087BB3",
+      "index": 184,
+      "group": "palmas-turismo-social",
+      "title": "Turismo Social",
+      "subtitle": "",
+      "label": "Turismo Social",
+      "thumbnail": "media/panorama_336C4133_1235_67BC_41A7_1A4E45087BB3_t.webp",
+      "originalTitle": "Turismo Social",
+      "originalSubtitle": ""
+    },
+    {
+      "id": "panorama_0E31FC15_1235_5D64_4170_F6D0D2C6BCE8",
+      "index": 185,
+      "group": "palmas-turismo-social",
+      "title": "Turismo Social",
+      "subtitle": "",
+      "label": "Turismo Social",
+      "thumbnail": "media/panorama_0E31FC15_1235_5D64_4170_F6D0D2C6BCE8_t.webp",
+      "originalTitle": "Turismo Social",
+      "originalSubtitle": ""
+    },
+    {
+      "id": "panorama_0E22B31F_1235_AB65_41A6_4BF6051F8FE0",
+      "index": 186,
+      "group": "palmas-turismo-social",
+      "title": "Turismo Social",
+      "subtitle": "",
+      "label": "Turismo Social",
+      "thumbnail": "media/panorama_0E22B31F_1235_AB65_41A6_4BF6051F8FE0_t.webp",
+      "originalTitle": "Turismo Social",
+      "originalSubtitle": ""
+    }
+  ]
+}
