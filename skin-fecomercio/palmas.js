@@ -1,0 +1,1 @@
+(function(){'use strict';var title='Centro de Atividades Sesc Palmas | Tour 360°';var element=document.querySelector('title');function update(){if(document.title!==title)document.title=title;}update();if(element)new MutationObserver(update).observe(element,{childList:true,characterData:true,subtree:true});}());
