@@ -1,7 +1,7 @@
 (function () {
   'use strict';
   if (window.PalmasSkin) return;
-  var version = '1.0.0-palmas-20261006';
+  var version = '1.0.1-palmas-20261006';
   var diagnostics = { version: version, contextLost: 0, contextRestored: 0, navigationErrors: 0 };
   var root, config, playlist, player, bound = false, readyTimer, resizeTimer, toastTimer;
   var sceneById = new Map(), groupById = new Map(), runtimeIndex = new Map();
@@ -57,6 +57,7 @@
     root.querySelector('[data-action="close"]').focus({ preventScroll: true });
   }
   function groupForCurrent() {
+    if (!config || !config.scenes) return null;
     var scene = config.scenes.find(function (s) { return runtimeIndex.get(s.id) === activeIndex; });
     return scene && groupById.get(scene.group);
   }
