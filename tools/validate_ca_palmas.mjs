@@ -12,7 +12,7 @@ function check(condition, label, detail = '') {
 }
 
 const config = JSON.parse(fs.readFileSync(path.join(root, 'skin-fecomercio', 'config.json'), 'utf8'));
-const expectedVersion = '4.3.5-ca-palmas-alinhamentos-2026-11-04-r2';
+const expectedVersion = '4.3.5-ca-palmas-alinhamentos-2026-11-04-r3';
 check(config.version === expectedVersion, 'Versão da configuração', config.version);
 check(config.homeIndex === 0, 'Cena inicial geral', String(config.homeIndex));
 check(config.scenes.length === 187, 'Total de panoramas', String(config.scenes.length));
@@ -60,6 +60,12 @@ check(unitCss.includes('#mg360-ui .mg360-destination:before'), 'Alinhamento dos 
 check(unitCss.includes('bottom:calc(110px + var(--mg-safe-bottom))'), 'Categorias separadas do dock no desktop');
 check(unitCss.includes('bottom:calc(140px + var(--mg-safe-bottom))'), 'Categorias separadas do dock em telas menores');
 check(unitCss.includes('#mg360-ui.mg360-mobile-viewport-fix .mg360-nuclei{display:flex'), 'Categorias visíveis na adaptação móvel');
+check(unitCss.includes('@media(max-width:900px)'), 'Comportamento restrito ao mobile');
+check(unitCss.includes('.mg360-panorama-moving .mg360-nuclei{opacity:0'), 'Barra oculta durante o movimento');
+
+const unitJs = fs.readFileSync(path.join(root, 'skin-fecomercio', 'palmas.js'), 'utf8');
+check(unitJs.includes("document.addEventListener('pointerdown', hideCategories, true)"), 'Início do gesto móvel detectado');
+check(unitJs.includes("root.classList.remove('mg360-panorama-moving')"), 'Barra restaurada após o gesto');
 
 for (const scriptFile of ['script_general.js', 'script_mobile.js']) {
   const script = fs.readFileSync(path.join(root, scriptFile), 'utf8');

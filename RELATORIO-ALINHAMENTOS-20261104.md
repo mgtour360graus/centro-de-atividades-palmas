@@ -29,11 +29,12 @@
 
 ## Verificações antes da publicação
 
-- Validação estrutural automatizada: **59/59 verificações aprovadas**.
+- Validação estrutural automatizada: **63/63 verificações aprovadas**.
 - Cenas: 187 índices únicos, sem perda e todas vinculadas a categorias válidas.
 - Destinos: todos apontam para cenas existentes.
 - Navegador local: abertura, Geral/Entrada, menu de ambientes, nomes, marcas e acesso ao Teatro conferidos.
 - Responsividade emulada em 390 × 844: nove categorias visíveis, menu com rolagem e distância segura do dock.
+- Somente no mobile, a barra de categorias se oculta durante o arraste da panorâmica e reaparece 650 ms após o término do gesto.
 - Console do navegador: nenhum erro ou aviso após manter a skin original de Palmas.
 - Player: `watermark: false` preservado.
 

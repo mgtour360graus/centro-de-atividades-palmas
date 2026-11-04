@@ -3,7 +3,7 @@ import path from 'node:path';
 
 const root = path.resolve(import.meta.dirname, '..');
 const configPath = path.join(root, 'skin-fecomercio', 'config.json');
-const version = '4.3.5-ca-palmas-alinhamentos-2026-11-04-r2';
+const version = '4.3.5-ca-palmas-alinhamentos-2026-11-04-r3';
 const publicBase = 'https://mgtour360graus.github.io/centro-de-atividades-palmas';
 const socialImage = 'socialThumbnail-revisao-20261104.png';
 
