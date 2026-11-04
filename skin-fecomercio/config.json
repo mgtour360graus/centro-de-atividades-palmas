@@ -1,12 +1,12 @@
 {
-  "version": "4.3.0-palmas-20261006-r2",
+  "version": "4.3.5-ca-palmas-alinhamentos-2026-11-04-r2",
   "brand": {
     "systemName": "SISTEMA FECOMÉRCIO",
-    "tourName": "Centro de Atividades · Palmas - TO",
+    "tourName": "Centro de Atividades Sesc Palmas, Tocantins - TOUR 360°",
     "unitName": "Centro de Atividades Sesc Palmas",
-    "logo": "skin-fecomercio/assets/sesc-1x1-colorido.png",
-    "cornerLogo": "skin-fecomercio/assets/sesc-1x1-colorido.png",
-    "tagline": "Cuidar das pessoas é a nossa essência.",
+    "logo": "skin-fecomercio/assets/marca-sesc-colorida-20261030.png",
+    "cornerLogo": "skin-fecomercio/assets/marca-sesc-branca-20261030.png",
+    "tagline": "",
     "colors": {
       "blue": "#004C99",
       "blueDark": "#003865",
@@ -54,19 +54,35 @@
   ],
   "groups": [
     {
-      "id": "entrada",
+      "id": "geral",
       "number": "01",
-      "short": "Entrada",
-      "title": "Entrada e circulação",
-      "eyebrow": "Entrada e circulação",
-      "description": "Explore os ambientes de entrada e circulação do Centro de Atividades Sesc Palmas.",
-      "accent": "#0B78BF",
-      "surface": "#DDF2FF",
+      "short": "Geral",
+      "title": "Conheça a Unidade",
+      "eyebrow": "Visão geral",
+      "description": "Comece pela vista aérea e conheça a entrada do Centro de Atividades Sesc Palmas.",
+      "accent": "#004C99",
+      "surface": "#E8F3FF",
       "destinations": [
         {
           "label": "Vista Aérea · 01",
           "index": 0
         },
+        {
+          "label": "Entrada principal",
+          "index": 82
+        }
+      ]
+    },
+    {
+      "id": "entrada",
+      "number": "02",
+      "short": "Entrada",
+      "title": "Entrada e circulação",
+      "eyebrow": "Entrada e circulação",
+      "description": "Acesse a entrada principal, a Central de Relacionamento e os ambientes de circulação do Centro de Atividades Sesc Palmas.",
+      "accent": "#0B78BF",
+      "surface": "#DDF2FF",
+      "destinations": [
         {
           "label": "Central de Relacionamento · 01",
           "index": 33
@@ -80,14 +96,14 @@
           "index": 109
         },
         {
-          "label": "Rampa de acesso · 01",
+          "label": "Corredor · 01",
           "index": 147
         }
       ]
     },
     {
       "id": "infantil",
-      "number": "02",
+      "number": "03",
       "short": "Ed. Infantil",
       "title": "Educação Infantil",
       "eyebrow": "Educação Infantil",
@@ -135,7 +151,7 @@
     },
     {
       "id": "escola",
-      "number": "03",
+      "number": "04",
       "short": "Escola Sesc",
       "title": "Escola Sesc",
       "eyebrow": "Escola Sesc",
@@ -183,7 +199,7 @@
     },
     {
       "id": "esporte",
-      "number": "04",
+      "number": "05",
       "short": "Esporte",
       "title": "Esporte e atividade física",
       "eyebrow": "Esporte e atividade física",
@@ -204,7 +220,7 @@
           "index": 76
         },
         {
-          "label": "Ginásio · 01",
+          "label": "Quadra Poliesportiva · 01",
           "index": 79
         },
         {
@@ -215,7 +231,7 @@
     },
     {
       "id": "cultura",
-      "number": "05",
+      "number": "06",
       "short": "Cultura",
       "title": "Cultura",
       "eyebrow": "Cultura",
@@ -232,23 +248,23 @@
           "index": 37
         },
         {
-          "label": "Núcleo de Música · 01",
+          "label": "Sala administrativa · 01",
           "index": 116
         },
         {
-          "label": "Núcleo de Música — Teclado · 01",
+          "label": "Núcleo de música 02 / Teclado · 01",
           "index": 118
         },
         {
-          "label": "Núcleo de Música — Viola e violão · 01",
+          "label": "Núcleo de música 02 / Violão Guitarra · 01",
           "index": 120
         },
         {
-          "label": "Núcleo de Música — Coral · 01",
+          "label": "Núcleo de música 01 / Canto · 01",
           "index": 122
         },
         {
-          "label": "Sala de vídeo · 01",
+          "label": "Sala biblioteca infantil · 01",
           "index": 159
         },
         {
@@ -259,27 +275,27 @@
     },
     {
       "id": "alimentacao",
-      "number": "06",
+      "number": "07",
       "short": "Alimentação",
-      "title": "Alimentação",
+      "title": "Alimentação: Restaurante e Lanchonete",
       "eyebrow": "Alimentação",
-      "description": "Explore os ambientes de alimentação do Centro de Atividades Sesc Palmas.",
+      "description": "Conheça o Restaurante e a Lanchonete do Centro de Atividades Sesc Palmas.",
       "accent": "#F08A19",
       "surface": "#FFF0D8",
       "destinations": [
         {
-          "label": "Lanchonete · 01",
-          "index": 111
-        },
-        {
           "label": "Restaurante · 01",
           "index": 148
+        },
+        {
+          "label": "Lanchonete · 01",
+          "index": 111
         }
       ]
     },
     {
       "id": "saude",
-      "number": "07",
+      "number": "08",
       "short": "Saúde",
       "title": "Atendimento e saúde",
       "eyebrow": "Atendimento e saúde",
@@ -302,29 +318,29 @@
       ]
     },
     {
-      "id": "outros",
-      "number": "08",
-      "short": "Outros",
-      "title": "Outros ambientes",
-      "eyebrow": "Outros ambientes",
-      "description": "Explore os ambientes de outros ambientes do Centro de Atividades Sesc Palmas.",
+      "id": "educacao-projetos",
+      "number": "09",
+      "short": "Educação",
+      "title": "Vida Ativa e salas de aula",
+      "eyebrow": "Educação e projetos",
+      "description": "Explore Vida Ativa, 6° ano, 7° ano e a Sala Multiuso Escola.",
       "accent": "#49A942",
       "surface": "#E3F5DE",
       "destinations": [
         {
-          "label": "Projeto de Vida · 01",
+          "label": "Vida Ativa · 01",
           "index": 144
         },
         {
-          "label": "Sala Multiuso 01 · 01",
+          "label": "6° ano · 01",
           "index": 161
         },
         {
-          "label": "Sala Multiuso 02 · 01",
+          "label": "7° ano · 01",
           "index": 164
         },
         {
-          "label": "Salas Projeto Especial · 01",
+          "label": "Sala Multiuso Escola · 01",
           "index": 166
         }
       ]
@@ -334,25 +350,25 @@
     {
       "index": 0,
       "name": "Vista Aérea · 01",
-      "group": "entrada",
+      "group": "geral",
       "thumb": "media/panorama_0D824A3D_1237_A5A4_41A4_C7A6E2D47046_t.webp"
     },
     {
       "index": 1,
       "name": "Vista Aérea · 02",
-      "group": "entrada",
+      "group": "geral",
       "thumb": "media/panorama_0FD42F19_1237_DB6C_41A7_25199BE4C050_t.webp"
     },
     {
       "index": 2,
       "name": "Vista Aérea · 03",
-      "group": "entrada",
+      "group": "geral",
       "thumb": "media/panorama_0FD784E2_1237_EEDF_4198_829F5527F2B6_t.webp"
     },
     {
       "index": 3,
       "name": "Vista Aérea · 04",
-      "group": "entrada",
+      "group": "geral",
       "thumb": "media/panorama_0FD7837C_1237_ABA4_41AE_E61FD658DF88_t.webp"
     },
     {
@@ -807,19 +823,19 @@
     },
     {
       "index": 79,
-      "name": "Ginásio · 01",
+      "name": "Quadra Poliesportiva · 01",
       "group": "esporte",
       "thumb": "media/panorama_0658C63F_121D_6DA4_41B1_571E24B5F075_t.webp"
     },
     {
       "index": 80,
-      "name": "Ginásio · 02",
+      "name": "Quadra Poliesportiva · 02",
       "group": "esporte",
       "thumb": "media/panorama_012AF50F_121D_AF64_41AE_E35131C4BB6C_t.webp"
     },
     {
       "index": 81,
-      "name": "Ginásio · 03",
+      "name": "Quadra Poliesportiva · 03",
       "group": "esporte",
       "thumb": "media/panorama_012B8C43_121D_BDDD_41A6_1EE0D889CC12_t.webp"
     },
@@ -1029,55 +1045,55 @@
     },
     {
       "index": 116,
-      "name": "Núcleo de Música · 01",
+      "name": "Sala administrativa · 01",
       "group": "cultura",
       "thumb": "media/panorama_04F62744_13F7_ABE4_41A3_90B6B911644D_t.webp"
     },
     {
       "index": 117,
-      "name": "Núcleo de Música · 02",
+      "name": "Sala administrativa · 02",
       "group": "cultura",
       "thumb": "media/panorama_04846806_13F7_6567_4166_72AD1DB2FDFA_t.webp"
     },
     {
       "index": 118,
-      "name": "Núcleo de Música — Teclado · 01",
+      "name": "Núcleo de música 02 / Teclado · 01",
       "group": "cultura",
       "thumb": "media/panorama_048737C8_13F7_6AEB_41A9_78120AB67957_t.webp"
     },
     {
       "index": 119,
-      "name": "Núcleo de Música — teclado · 02",
+      "name": "Núcleo de música 02 / Teclado · 02",
       "group": "cultura",
       "thumb": "media/panorama_04871E86_13F7_5D67_41A4_7B5576B4ADBE_t.webp"
     },
     {
       "index": 120,
-      "name": "Núcleo de Música — Viola e violão · 01",
+      "name": "Núcleo de música 02 / Violão Guitarra · 01",
       "group": "cultura",
       "thumb": "media/panorama_0486E5A6_13F6_AEA7_4174_FA36C4EA4585_t.webp"
     },
     {
       "index": 121,
-      "name": "Núcleo de Música — Viola e violão · 02",
+      "name": "Núcleo de música 02 / Violão Guitarra · 02",
       "group": "cultura",
       "thumb": "media/panorama_04850CBD_13F6_BEA4_419C_EFBD9989BAC0_t.webp"
     },
     {
       "index": 122,
-      "name": "Núcleo de Música — Coral · 01",
+      "name": "Núcleo de música 01 / Canto · 01",
       "group": "cultura",
       "thumb": "media/panorama_0486E3F7_13F6_AAA5_41A0_8B442218C4DC_t.webp"
     },
     {
       "index": 123,
-      "name": "Núcleo de Música — Coral · 02",
+      "name": "Núcleo de música 01 / Canto · 02",
       "group": "cultura",
       "thumb": "media/panorama_04850B31_13F6_DBBD_41AF_365CA50E25D6_t.webp"
     },
     {
       "index": 124,
-      "name": "Núcleo de Música — Coral · 03",
+      "name": "Núcleo de música 01 / Canto · 03",
       "group": "cultura",
       "thumb": "media/panorama_04852211_13F6_E57C_4187_0C1D8D9501E5_t.webp"
     },
@@ -1197,25 +1213,25 @@
     },
     {
       "index": 144,
-      "name": "Projeto de Vida · 01",
-      "group": "outros",
+      "name": "Vida Ativa · 01",
+      "group": "educacao-projetos",
       "thumb": "media/panorama_08505120_120D_675C_419D_30E259745643_t.webp"
     },
     {
       "index": 145,
-      "name": "Projeto de Vida · 02",
-      "group": "outros",
+      "name": "Vida Ativa · 02",
+      "group": "educacao-projetos",
       "thumb": "media/panorama_0BD7C1BE_120D_A6A7_4185_81A4A75F2CD9_t.webp"
     },
     {
       "index": 146,
-      "name": "Projeto de Vida · 03",
-      "group": "outros",
+      "name": "Vida Ativa · 03",
+      "group": "educacao-projetos",
       "thumb": "media/panorama_0BDA6E4D_120D_BDE5_41AA_075E1F5EBA20_t.webp"
     },
     {
       "index": 147,
-      "name": "Rampa de acesso · 01",
+      "name": "Corredor · 01",
       "group": "entrada",
       "thumb": "media/panorama_0AF8A9F6_1212_A6A4_41AF_BC5F50A149C3_t.webp"
     },
@@ -1287,74 +1303,74 @@
     },
     {
       "index": 159,
-      "name": "Sala de vídeo · 01",
+      "name": "Sala biblioteca infantil · 01",
       "group": "cultura",
       "thumb": "media/panorama_0F045EE0_121D_BADC_4196_130A6CC28A5C_t.webp"
     },
     {
       "index": 160,
-      "name": "Sala de vídeo · 02",
+      "name": "Sala biblioteca infantil · 02",
       "group": "cultura",
       "thumb": "media/panorama_0AF217CF_121D_AAE5_4174_6B548E11E59E_t.webp"
     },
     {
       "index": 161,
-      "name": "Sala Multiuso 01 · 01",
-      "group": "outros",
+      "name": "6° ano · 01",
+      "group": "educacao-projetos",
       "thumb": "media/panorama_08317A76_121F_65A4_41B0_473C09C50435_t.webp"
     },
     {
       "index": 162,
-      "name": "Sala Multiuso 01 · 02",
-      "group": "outros",
+      "name": "6° ano · 02",
+      "group": "educacao-projetos",
       "thumb": "media/panorama_0AF04DE4_121F_5EA4_41AE_2A80D24CADDD_t.webp"
     },
     {
       "index": 163,
-      "name": "Sala Multiuso 01 · 03",
-      "group": "outros",
+      "name": "6° ano · 03",
+      "group": "educacao-projetos",
       "thumb": "media/panorama_0AF38C25_121F_BDA4_4199_D7C14AB2A790_t.webp"
     },
     {
       "index": 164,
-      "name": "Sala Multiuso 02 · 01",
-      "group": "outros",
+      "name": "7° ano · 01",
+      "group": "educacao-projetos",
       "thumb": "media/panorama_0850360C_121D_AD6B_41AC_296DA362E8E6_t.webp"
     },
     {
       "index": 165,
-      "name": "Sala Multiuso 02 · 02",
-      "group": "outros",
+      "name": "7° ano · 02",
+      "group": "educacao-projetos",
       "thumb": "media/panorama_09417700_121D_AB5D_41A9_962CB49814CC_t.webp"
     },
     {
       "index": 166,
-      "name": "Salas Projeto Especial · 01",
-      "group": "outros",
+      "name": "Sala Multiuso Escola · 01",
+      "group": "educacao-projetos",
       "thumb": "media/panorama_0F54585A_1212_E5EF_41AE_B227E966D322_t.webp"
     },
     {
       "index": 167,
-      "name": "Salas Projeto Especial · 02",
-      "group": "outros",
+      "name": "Sala Multiuso Escola · 02",
+      "group": "educacao-projetos",
       "thumb": "media/panorama_09C932FE_1212_EAA7_41B2_E481AF09C032_t.webp"
     },
     {
       "index": 168,
-      "name": "Salas Projeto Especial · 03",
-      "group": "outros",
+      "name": "Sala Multiuso Escola · 03",
+      "group": "educacao-projetos",
       "thumb": "media/panorama_09C97427_1212_ADA5_41AE_9EE6EA4133BB_t.webp"
     },
     {
       "index": 169,
-      "name": "Salas Projeto Especial · 04",
-      "group": "outros",
+      "name": "Sala Multiuso Escola · 04",
+      "group": "educacao-projetos",
       "thumb": "media/panorama_09D6210A_1212_A76D_41A5_7042D80ECD3A_t.webp"
     },
     {
       "index": 170,
-      "name": "Salas Projeto Especial · 05",
-      "group": "outros",
+      "name": "Sala Multiuso Escola · 05",
+      "group": "educacao-projetos",
       "thumb": "media/panorama_09D63808_1212_A56C_41B0_FAE4E2953764_t.webp"
     },
     {
