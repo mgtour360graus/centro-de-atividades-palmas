@@ -1,11 +1,11 @@
 {
-  "version": "4.3.6-ca-palmas-native-safe-r3",
+  "version": "5.0-ca-palmas-revisao-cliente-20261109-r1",
   "brand": {
     "systemName": "SISTEMA FECOMÉRCIO",
     "tourName": "Centro de Atividades Sesc Palmas, Tocantins - TOUR 360°",
     "unitName": "Centro de Atividades Sesc Palmas",
-    "logo": "skin-fecomercio/assets/marca-sesc-colorida-20261030.png",
-    "cornerLogo": "skin-fecomercio/assets/marca-sesc-branca-20261030.png",
+    "logo": "skin-fecomercio/assets/marca-sesc-colorida-20261109.png",
+    "cornerLogo": "skin-fecomercio/assets/marca-sesc-branca-20261109.png",
     "tagline": "",
     "colors": {
       "blue": "#004C99",
@@ -102,12 +102,12 @@
       ]
     },
     {
-      "id": "infantil",
+      "id": "educacao",
       "number": "03",
-      "short": "Ed. Infantil",
-      "title": "Educação Infantil",
-      "eyebrow": "Educação Infantil",
-      "description": "Explore os ambientes de educação infantil do Centro de Atividades Sesc Palmas.",
+      "short": "Educação",
+      "title": "Educação",
+      "eyebrow": "Educação",
+      "description": "Conheça a Educação Infantil e a Escola Sesc.",
       "accent": "#49A942",
       "surface": "#E3F5DE",
       "destinations": [
@@ -146,19 +146,7 @@
         {
           "label": "Educação Infantil — Sala dos Professores · 01",
           "index": 72
-        }
-      ]
-    },
-    {
-      "id": "escola",
-      "number": "04",
-      "short": "Escola Sesc",
-      "title": "Escola Sesc",
-      "eyebrow": "Escola Sesc",
-      "description": "Explore os ambientes de escola sesc do Centro de Atividades Sesc Palmas.",
-      "accent": "#8C59AD",
-      "surface": "#F2E6FA",
-      "destinations": [
+        },
         {
           "label": "Escola Sesc — Espaço Maker / Sala de Recursos · 01",
           "index": 86
@@ -198,40 +186,32 @@
       ]
     },
     {
-      "id": "esporte",
-      "number": "05",
-      "short": "Esporte",
-      "title": "Esporte e atividade física",
-      "eyebrow": "Esporte e atividade física",
-      "description": "Explore os ambientes de esporte e atividade física do Centro de Atividades Sesc Palmas.",
-      "accent": "#12AFC2",
-      "surface": "#DDFBFC",
+      "id": "saude",
+      "number": "04",
+      "short": "Saúde",
+      "title": "Atendimento e saúde",
+      "eyebrow": "Atendimento e saúde",
+      "description": "Explore os ambientes de atendimento e saúde do Centro de Atividades Sesc Palmas.",
+      "accent": "#0B78BF",
+      "surface": "#DDF2FF",
       "destinations": [
         {
-          "label": "Academia · 01",
-          "index": 4
+          "label": "Odontologia · 01",
+          "index": 125
         },
         {
-          "label": "Campo de Futebol · 01",
-          "index": 30
+          "label": "Secretaria · 01",
+          "index": 171
         },
         {
-          "label": "Esporte 01 · 01",
-          "index": 76
-        },
-        {
-          "label": "Quadra Poliesportiva · 01",
-          "index": 79
-        },
-        {
-          "label": "Piscinas · 01",
-          "index": 136
+          "label": "Turismo Social · 01",
+          "index": 184
         }
       ]
     },
     {
       "id": "cultura",
-      "number": "06",
+      "number": "05",
       "short": "Cultura",
       "title": "Cultura",
       "eyebrow": "Cultura",
@@ -274,10 +254,70 @@
       ]
     },
     {
-      "id": "alimentacao",
+      "id": "esporte",
+      "number": "06",
+      "short": "Lazer/Esporte",
+      "title": "Lazer/Esporte",
+      "eyebrow": "Esporte e atividade física",
+      "description": "Explore os ambientes de esporte e atividade física do Centro de Atividades Sesc Palmas.",
+      "accent": "#12AFC2",
+      "surface": "#DDFBFC",
+      "destinations": [
+        {
+          "label": "Academia · 01",
+          "index": 4
+        },
+        {
+          "label": "Campo de Futebol · 01",
+          "index": 30
+        },
+        {
+          "label": "Esporte 01 · 01",
+          "index": 76
+        },
+        {
+          "label": "Quadra Poliesportiva · 01",
+          "index": 79
+        },
+        {
+          "label": "Piscinas · 01",
+          "index": 136
+        }
+      ]
+    },
+    {
+      "id": "assistencia",
       "number": "07",
+      "short": "Assistência",
+      "title": "Assistência",
+      "eyebrow": "Assistência",
+      "description": "Conheça os espaços de Assistência e Vida Ativa.",
+      "accent": "#49A942",
+      "surface": "#E3F5DE",
+      "destinations": [
+        {
+          "label": "Vida Ativa · 01",
+          "index": 144
+        },
+        {
+          "label": "6º ano · 01",
+          "index": 161
+        },
+        {
+          "label": "7º ano · 01",
+          "index": 164
+        },
+        {
+          "label": "Sala Multiuso Escola · 01",
+          "index": 166
+        }
+      ]
+    },
+    {
+      "id": "alimentacao",
+      "number": "08",
       "short": "Alimentação",
-      "title": "Alimentação: Restaurante e Lanchonete",
+      "title": "Alimentação",
       "eyebrow": "Alimentação",
       "description": "Conheça o Restaurante e a Lanchonete do Centro de Atividades Sesc Palmas.",
       "accent": "#F08A19",
@@ -290,58 +330,6 @@
         {
           "label": "Lanchonete · 01",
           "index": 111
-        }
-      ]
-    },
-    {
-      "id": "saude",
-      "number": "08",
-      "short": "Saúde",
-      "title": "Atendimento e saúde",
-      "eyebrow": "Atendimento e saúde",
-      "description": "Explore os ambientes de atendimento e saúde do Centro de Atividades Sesc Palmas.",
-      "accent": "#0B78BF",
-      "surface": "#DDF2FF",
-      "destinations": [
-        {
-          "label": "Odontologia · 01",
-          "index": 125
-        },
-        {
-          "label": "Secretaria · 01",
-          "index": 171
-        },
-        {
-          "label": "Turismo Social · 01",
-          "index": 184
-        }
-      ]
-    },
-    {
-      "id": "educacao-projetos",
-      "number": "09",
-      "short": "Educação",
-      "title": "Vida Ativa e salas de aula",
-      "eyebrow": "Educação e projetos",
-      "description": "Explore Vida Ativa, 6° ano, 7° ano e a Sala Multiuso Escola.",
-      "accent": "#49A942",
-      "surface": "#E3F5DE",
-      "destinations": [
-        {
-          "label": "Vida Ativa · 01",
-          "index": 144
-        },
-        {
-          "label": "6° ano · 01",
-          "index": 161
-        },
-        {
-          "label": "7° ano · 01",
-          "index": 164
-        },
-        {
-          "label": "Sala Multiuso Escola · 01",
-          "index": 166
         }
       ]
     }
@@ -590,217 +578,217 @@
     {
       "index": 40,
       "name": "Educação Infantil — Acesso à Escola e Pátio · 01",
-      "group": "infantil",
+      "group": "educacao",
       "thumb": "media/panorama_01788735_12F3_EBA5_4193_E21546EC5AAA_t.webp"
     },
     {
       "index": 41,
       "name": "Educação Infantil — Acesso à Escola e Pátio · 02",
-      "group": "infantil",
+      "group": "educacao",
       "thumb": "media/panorama_038017CF_12F3_EAE4_4177_179F7229EA74_t.webp"
     },
     {
       "index": 42,
       "name": "Educação Infantil — Acesso à Escola e Pátio · 03",
-      "group": "infantil",
+      "group": "educacao",
       "thumb": "media/panorama_0387E240_12F3_A5DC_41A0_99C5E4369B81_t.webp"
     },
     {
       "index": 43,
       "name": "Educação Infantil — Acesso à Escola e Pátio · 04",
-      "group": "infantil",
+      "group": "educacao",
       "thumb": "media/panorama_0380D0B4_12F3_A6A4_41A5_A068E36ED211_t.webp"
     },
     {
       "index": 44,
       "name": "Educação Infantil — Acesso à Escola e Pátio · 05",
-      "group": "infantil",
+      "group": "educacao",
       "thumb": "media/panorama_0387A78A_12F3_AB6C_4186_3D16841C9A53_t.webp"
     },
     {
       "index": 45,
       "name": "Educação Infantil — Acesso à Escola e Pátio · 06",
-      "group": "infantil",
+      "group": "educacao",
       "thumb": "media/panorama_03870E92_12F3_5D7F_4183_64364A283CBC_t.webp"
     },
     {
       "index": 46,
       "name": "Educação Infantil — Acesso à Escola e Pátio · 07",
-      "group": "infantil",
+      "group": "educacao",
       "thumb": "media/panorama_03871504_12F3_6F64_415A_03BD31B04322_t.webp"
     },
     {
       "index": 47,
       "name": "Educação Infantil — Acesso à Escola e Pátio · 08",
-      "group": "infantil",
+      "group": "educacao",
       "thumb": "media/panorama_0380EB90_12F3_7B7C_41A5_6B04153D10A2_t.webp"
     },
     {
       "index": 48,
       "name": "Educação Infantil — Acesso à Escola e Pátio · 09",
-      "group": "infantil",
+      "group": "educacao",
       "thumb": "media/panorama_0387026C_12F3_65AB_41A1_56966553E083_t.webp"
     },
     {
       "index": 49,
       "name": "Educação Infantil — Acesso à Escola e Pátio · 10",
-      "group": "infantil",
+      "group": "educacao",
       "thumb": "media/panorama_0380B8DE_12F3_66E4_41AF_66F5F7E997F0_t.webp"
     },
     {
       "index": 50,
       "name": "Educação Infantil — Refeitório · 01",
-      "group": "infantil",
+      "group": "educacao",
       "thumb": "media/panorama_006877CF_1215_AAE4_4196_784F5A2FB960_t.webp"
     },
     {
       "index": 51,
       "name": "Educação Infantil — Refeitório · 02",
-      "group": "infantil",
+      "group": "educacao",
       "thumb": "media/panorama_03EF5B0C_1215_DB64_41A4_B64D27BB3F51_t.webp"
     },
     {
       "index": 52,
       "name": "Educação Infantil — Refeitório · 03",
-      "group": "infantil",
+      "group": "educacao",
       "thumb": "media/panorama_03E8E6CF_1215_EAE4_41AC_E9CFBE68FA61_t.webp"
     },
     {
       "index": 53,
       "name": "Educação Infantil — Refeitório · 04",
-      "group": "infantil",
+      "group": "educacao",
       "thumb": "media/panorama_03E80DFE_1215_FEA4_41A6_C13EB8FD0B55_t.webp"
     },
     {
       "index": 54,
       "name": "Educação Infantil — Refeitório · 05",
-      "group": "infantil",
+      "group": "educacao",
       "thumb": "media/panorama_03E8D4A2_1215_ED5F_41B2_91A4E8246EEB_t.webp"
     },
     {
       "index": 55,
       "name": "Educação Infantil — Refeitório · 06",
-      "group": "infantil",
+      "group": "educacao",
       "thumb": "media/panorama_03E80B42_1215_DBDC_4192_FCF6012FFA2F_t.webp"
     },
     {
       "index": 56,
       "name": "Educação Infantil — Sala 01 · 01",
-      "group": "infantil",
+      "group": "educacao",
       "thumb": "media/panorama_010F84FA_1212_AEAF_41A0_BD86189FBE72_t.webp"
     },
     {
       "index": 57,
       "name": "Educação Infantil — Sala 01 · 02",
-      "group": "infantil",
+      "group": "educacao",
       "thumb": "media/panorama_0371D266_1212_A5A7_41A6_BE82EB46BA81_t.webp"
     },
     {
       "index": 58,
       "name": "Educação Infantil — Sala 01 · 03",
-      "group": "infantil",
+      "group": "educacao",
       "thumb": "media/panorama_037ED9CC_1212_A6E4_41A5_7710D6D11524_t.webp"
     },
     {
       "index": 59,
       "name": "Educação Infantil — Sala 02 · 01",
-      "group": "infantil",
+      "group": "educacao",
       "thumb": "media/panorama_00D463B6_1217_6AA4_41B0_93AF816CE63B_t.webp"
     },
     {
       "index": 60,
       "name": "Educação Infantil — Sala 02 · 02",
-      "group": "infantil",
+      "group": "educacao",
       "thumb": "media/panorama_009424E3_1217_AEDC_419F_A801DB9283BD_t.webp"
     },
     {
       "index": 61,
       "name": "Educação Infantil — Sala 02 · 03",
-      "group": "infantil",
+      "group": "educacao",
       "thumb": "media/panorama_0094C262_1217_A5DC_4187_2B9E595CF2BB_t.webp"
     },
     {
       "index": 62,
       "name": "Educação Infantil — Sala 03 · 01",
-      "group": "infantil",
+      "group": "educacao",
       "thumb": "media/panorama_06CA27A2_120D_AB5F_4199_2AE264AC252F_t.webp"
     },
     {
       "index": 63,
       "name": "Educação Infantil — Sala 03 · 02",
-      "group": "infantil",
+      "group": "educacao",
       "thumb": "media/panorama_00C9F666_120D_6DA4_41A1_2B4CB5B70541_t.webp"
     },
     {
       "index": 64,
       "name": "Educação Infantil — Sala 04 · 01",
-      "group": "infantil",
+      "group": "educacao",
       "thumb": "media/panorama_06F4F6FD_120D_AAA4_4189_5678BB789EF2_t.webp"
     },
     {
       "index": 65,
       "name": "Educação Infantil — Sala 04 · 02",
-      "group": "infantil",
+      "group": "educacao",
       "thumb": "media/panorama_001795DD_120D_6EE4_41A6_40F260501A2D_t.webp"
     },
     {
       "index": 66,
       "name": "Educação Infantil — Sala 04 · 03",
-      "group": "infantil",
+      "group": "educacao",
       "thumb": "media/panorama_0019C461_120D_6DDC_4198_B3B4C96707D5_t.webp"
     },
     {
       "index": 67,
       "name": "Educação Infantil — Sala 05 · 01",
-      "group": "infantil",
+      "group": "educacao",
       "thumb": "media/panorama_0181E6CC_1237_6AE4_41A8_82809B1063F1_t.webp"
     },
     {
       "index": 68,
       "name": "Educação Infantil — Sala 05 · 02",
-      "group": "infantil",
+      "group": "educacao",
       "thumb": "media/panorama_001997DF_1236_AAE4_4164_BC6D3F8392AC_t.webp"
     },
     {
       "index": 69,
       "name": "Educação Infantil — Sala de Artes · 01",
-      "group": "infantil",
+      "group": "educacao",
       "thumb": "media/panorama_06CA7BC5_123F_DAE4_4193_2E514F9BDBEF_t.webp"
     },
     {
       "index": 70,
       "name": "Educação Infantil — Sala de Artes · 02",
-      "group": "infantil",
+      "group": "educacao",
       "thumb": "media/panorama_01A23259_123F_A5ED_4194_89835AC2C41E_t.webp"
     },
     {
       "index": 71,
       "name": "Educação Infantil — Sala de Artes · 03",
-      "group": "infantil",
+      "group": "educacao",
       "thumb": "media/panorama_01A2C989_123F_A76C_41A3_BAEAFC09644F_t.webp"
     },
     {
       "index": 72,
       "name": "Educação Infantil — Sala dos Professores · 01",
-      "group": "infantil",
+      "group": "educacao",
       "thumb": "media/panorama_01F73296_1237_E564_41AF_8098966D600C_t.webp"
     },
     {
       "index": 73,
       "name": "Educação Infantil — Sala dos Professores · 02",
-      "group": "infantil",
+      "group": "educacao",
       "thumb": "media/panorama_018F6B1A_1237_FB6C_41A3_9FE23A2BDDFC_t.webp"
     },
     {
       "index": 74,
       "name": "Educação Infantil — Sala dos Professores · 03",
-      "group": "infantil",
+      "group": "educacao",
       "thumb": "media/panorama_018F2249_1237_E5EC_41A3_E596422EE5EF_t.webp"
     },
     {
       "index": 75,
       "name": "Educação Infantil — Sala dos Professores · 04",
-      "group": "infantil",
+      "group": "educacao",
       "thumb": "media/panorama_018F68EE_1237_E6A7_4193_882B29DEA00E_t.webp"
     },
     {
@@ -866,139 +854,139 @@
     {
       "index": 86,
       "name": "Escola Sesc — Espaço Maker / Sala de Recursos · 01",
-      "group": "escola",
+      "group": "educacao",
       "thumb": "media/panorama_07CB0A0B_1233_656C_41A5_E527D7FB005A_t.webp"
     },
     {
       "index": 87,
       "name": "Escola Sesc — Espaço Maker / Sala de Recursos · 02",
-      "group": "escola",
+      "group": "educacao",
       "thumb": "media/panorama_01126573_1233_6FBD_41A9_ADA942464E76_t.webp"
     },
     {
       "index": 88,
       "name": "Escola Sesc — Sala 01 · 01",
-      "group": "escola",
+      "group": "educacao",
       "thumb": "media/panorama_067B9725_1235_6BA5_41AB_7306C6737D73_t.webp"
     },
     {
       "index": 89,
       "name": "Escola Sesc — Sala 01 · 02",
-      "group": "escola",
+      "group": "educacao",
       "thumb": "media/panorama_06DE78FF_1235_66A4_4167_99ED0C7C487C_t.webp"
     },
     {
       "index": 90,
       "name": "Escola Sesc — Sala 01 · 03",
-      "group": "escola",
+      "group": "educacao",
       "thumb": "media/panorama_06DFFF74_1235_5BA4_41AD_1D7692C7D5A2_t.webp"
     },
     {
       "index": 91,
       "name": "Escola Sesc — Sala 02 · 01",
-      "group": "escola",
+      "group": "educacao",
       "thumb": "media/panorama_04DCB8AE_1233_A6A4_41A5_6CF8819EE302_t.webp"
     },
     {
       "index": 92,
       "name": "Escola Sesc — Sala 02 · 02",
-      "group": "escola",
+      "group": "educacao",
       "thumb": "media/panorama_066067EE_1233_6AA4_419E_9EC33840A2EF_t.webp"
     },
     {
       "index": 93,
       "name": "Escola Sesc — Sala 03 · 01",
-      "group": "escola",
+      "group": "educacao",
       "thumb": "media/panorama_07F99D30_1215_FFBB_41A8_859495A9C59F_t.webp"
     },
     {
       "index": 94,
       "name": "Escola Sesc — Sala 03 · 02",
-      "group": "escola",
+      "group": "educacao",
       "thumb": "media/panorama_064BC9B8_1215_E6AB_4153_00B0D240FD68_t.webp"
     },
     {
       "index": 95,
       "name": "Escola Sesc — Sala 03 · 03",
-      "group": "escola",
+      "group": "educacao",
       "thumb": "media/panorama_064B906B_1215_A5AC_41A7_7E31C414FADF_t.webp"
     },
     {
       "index": 96,
       "name": "Escola Sesc — Sala 04 · 01",
-      "group": "escola",
+      "group": "educacao",
       "thumb": "media/panorama_0415EE8F_1217_7D64_418A_6CADF9347D12_t.webp"
     },
     {
       "index": 97,
       "name": "Escola Sesc — Sala 04 · 02",
-      "group": "escola",
+      "group": "educacao",
       "thumb": "media/panorama_07FB6F81_1217_5B5C_4191_0399ACCFA7DF_t.webp"
     },
     {
       "index": 98,
       "name": "Escola Sesc — Sala 05 · 01",
-      "group": "escola",
+      "group": "educacao",
       "thumb": "media/panorama_075DBFA2_1212_FB5C_415A_1066E5A7ABB4_t.webp"
     },
     {
       "index": 99,
       "name": "Escola Sesc — Sala 05 · 02",
-      "group": "escola",
+      "group": "educacao",
       "thumb": "media/panorama_07BCCA81_1212_E55F_4198_BFF727F26843_t.webp"
     },
     {
       "index": 100,
       "name": "Escola Sesc — Sala 05 · 03",
-      "group": "escola",
+      "group": "educacao",
       "thumb": "media/panorama_07BCDCCD_1212_BEE4_419D_4E57CBE2F4CA_t.webp"
     },
     {
       "index": 101,
       "name": "Escola Sesc — Sala 06 · 01",
-      "group": "escola",
+      "group": "educacao",
       "thumb": "media/panorama_05D469D3_121D_A6FC_4180_83D0044BA696_t.webp"
     },
     {
       "index": 102,
       "name": "Escola Sesc — Sala 06 · 02",
-      "group": "escola",
+      "group": "educacao",
       "thumb": "media/panorama_0754AAD3_121D_7AFC_41AA_9F5CEBD666CD_t.webp"
     },
     {
       "index": 103,
       "name": "Escola Sesc — Sala 07 · 01",
-      "group": "escola",
+      "group": "educacao",
       "thumb": "media/panorama_0445E8D6_1212_E6E4_4125_0DA90923B298_t.webp"
     },
     {
       "index": 104,
       "name": "Escola Sesc — Sala 07 · 02",
-      "group": "escola",
+      "group": "educacao",
       "thumb": "media/panorama_0717D352_1212_ABFC_4191_12DD27354442_t.webp"
     },
     {
       "index": 105,
       "name": "Escola Sesc — Sala 07 · 03",
-      "group": "escola",
+      "group": "educacao",
       "thumb": "media/panorama_07169A71_1212_A5BC_41B2_157C5757C126_t.webp"
     },
     {
       "index": 106,
       "name": "Escola Sesc — Sala 08 · 01",
-      "group": "escola",
+      "group": "educacao",
       "thumb": "media/panorama_0ADCE306_1213_AB64_41A3_2899C8A92A4A_t.webp"
     },
     {
       "index": 107,
       "name": "Escola Sesc — Sala 08 · 02",
-      "group": "escola",
+      "group": "educacao",
       "thumb": "media/panorama_047F7D78_1213_5FAC_41A6_C4CB1D1667BF_t.webp"
     },
     {
       "index": 108,
       "name": "Escola Sesc — Sala 08 · 03",
-      "group": "escola",
+      "group": "educacao",
       "thumb": "media/panorama_047FF471_1213_6DBD_41A7_CCE7DF37CD79_t.webp"
     },
     {
@@ -1214,19 +1202,19 @@
     {
       "index": 144,
       "name": "Vida Ativa · 01",
-      "group": "educacao-projetos",
+      "group": "assistencia",
       "thumb": "media/panorama_08505120_120D_675C_419D_30E259745643_t.webp"
     },
     {
       "index": 145,
       "name": "Vida Ativa · 02",
-      "group": "educacao-projetos",
+      "group": "assistencia",
       "thumb": "media/panorama_0BD7C1BE_120D_A6A7_4185_81A4A75F2CD9_t.webp"
     },
     {
       "index": 146,
       "name": "Vida Ativa · 03",
-      "group": "educacao-projetos",
+      "group": "assistencia",
       "thumb": "media/panorama_0BDA6E4D_120D_BDE5_41AA_075E1F5EBA20_t.webp"
     },
     {
@@ -1315,62 +1303,62 @@
     },
     {
       "index": 161,
-      "name": "6° ano · 01",
-      "group": "educacao-projetos",
+      "name": "6º ano · 01",
+      "group": "assistencia",
       "thumb": "media/panorama_08317A76_121F_65A4_41B0_473C09C50435_t.webp"
     },
     {
       "index": 162,
-      "name": "6° ano · 02",
-      "group": "educacao-projetos",
+      "name": "6º ano · 02",
+      "group": "assistencia",
       "thumb": "media/panorama_0AF04DE4_121F_5EA4_41AE_2A80D24CADDD_t.webp"
     },
     {
       "index": 163,
-      "name": "6° ano · 03",
-      "group": "educacao-projetos",
+      "name": "6º ano · 03",
+      "group": "assistencia",
       "thumb": "media/panorama_0AF38C25_121F_BDA4_4199_D7C14AB2A790_t.webp"
     },
     {
       "index": 164,
-      "name": "7° ano · 01",
-      "group": "educacao-projetos",
+      "name": "7º ano · 01",
+      "group": "assistencia",
       "thumb": "media/panorama_0850360C_121D_AD6B_41AC_296DA362E8E6_t.webp"
     },
     {
       "index": 165,
-      "name": "7° ano · 02",
-      "group": "educacao-projetos",
+      "name": "7º ano · 02",
+      "group": "assistencia",
       "thumb": "media/panorama_09417700_121D_AB5D_41A9_962CB49814CC_t.webp"
     },
     {
       "index": 166,
       "name": "Sala Multiuso Escola · 01",
-      "group": "educacao-projetos",
+      "group": "assistencia",
       "thumb": "media/panorama_0F54585A_1212_E5EF_41AE_B227E966D322_t.webp"
     },
     {
       "index": 167,
       "name": "Sala Multiuso Escola · 02",
-      "group": "educacao-projetos",
+      "group": "assistencia",
       "thumb": "media/panorama_09C932FE_1212_EAA7_41B2_E481AF09C032_t.webp"
     },
     {
       "index": 168,
       "name": "Sala Multiuso Escola · 03",
-      "group": "educacao-projetos",
+      "group": "assistencia",
       "thumb": "media/panorama_09C97427_1212_ADA5_41AE_9EE6EA4133BB_t.webp"
     },
     {
       "index": 169,
       "name": "Sala Multiuso Escola · 04",
-      "group": "educacao-projetos",
+      "group": "assistencia",
       "thumb": "media/panorama_09D6210A_1212_A76D_41A5_7042D80ECD3A_t.webp"
     },
     {
       "index": 170,
       "name": "Sala Multiuso Escola · 05",
-      "group": "educacao-projetos",
+      "group": "assistencia",
       "thumb": "media/panorama_09D63808_1212_A56C_41B0_FAE4E2953764_t.webp"
     },
     {
