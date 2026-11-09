@@ -1,5 +1,5 @@
 {
-  "version": "5.1-ca-palmas-galeria-jardim-20261109-r1",
+  "version": "5.2-ca-palmas-auditoria-20261109-r1",
   "brand": {
     "systemName": "SISTEMA FECOMÉRCIO",
     "tourName": "Centro de Atividades Sesc Palmas, Tocantins - TOUR 360°",
@@ -190,6 +190,14 @@
         {
           "label": "Escola Sesc — Sala 08 · 01",
           "index": 106
+        },
+        {
+          "label": "Escola Sesc - Hall e Refeitório",
+          "index": 190
+        },
+        {
+          "label": "Secretaria - Escola Sesc",
+          "index": 171
         }
       ]
     },
@@ -199,21 +207,13 @@
       "short": "Saúde",
       "title": "Atendimento e saúde",
       "eyebrow": "Atendimento e saúde",
-      "description": "Explore os ambientes de atendimento e saúde do Centro de Atividades Sesc Palmas.",
+      "description": "Conheça os ambientes de Odontologia do Centro de Atividades Sesc Palmas.",
       "accent": "#0B78BF",
       "surface": "#DDF2FF",
       "destinations": [
         {
           "label": "Odontologia · 01",
           "index": 125
-        },
-        {
-          "label": "Secretaria · 01",
-          "index": 171
-        },
-        {
-          "label": "Turismo Social · 01",
-          "index": 184
         }
       ]
     },
@@ -270,8 +270,8 @@
       "number": "06",
       "short": "Lazer/Esporte",
       "title": "Lazer/Esporte",
-      "eyebrow": "Esporte e atividade física",
-      "description": "Explore os ambientes de esporte e atividade física do Centro de Atividades Sesc Palmas.",
+      "eyebrow": "Lazer e esporte",
+      "description": "Explore os espaços de lazer, esporte e Turismo Social do Centro de Atividades Sesc Palmas.",
       "accent": "#12AFC2",
       "surface": "#DDFBFC",
       "destinations": [
@@ -294,6 +294,10 @@
         {
           "label": "Piscinas · 01",
           "index": 136
+        },
+        {
+          "label": "Turismo Social",
+          "index": 184
         }
       ]
     },
@@ -1376,13 +1380,13 @@
     {
       "index": 171,
       "name": "Secretaria · 01",
-      "group": "saude",
+      "group": "educacao",
       "thumb": "media/panorama_0F6723F4_1216_AABB_41A8_8AEC5EF5F2F0_t.webp"
     },
     {
       "index": 172,
       "name": "Secretaria · 02",
-      "group": "saude",
+      "group": "educacao",
       "thumb": "media/panorama_08261362_1216_EBDF_4193_C61F6C6DA0EE_t.webp"
     },
     {
@@ -1454,19 +1458,19 @@
     {
       "index": 184,
       "name": "Turismo Social · 01",
-      "group": "saude",
+      "group": "esporte",
       "thumb": "media/panorama_336C4133_1235_67BC_41A7_1A4E45087BB3_t.webp"
     },
     {
       "index": 185,
       "name": "Turismo Social · 02",
-      "group": "saude",
+      "group": "esporte",
       "thumb": "media/panorama_0E31FC15_1235_5D64_4170_F6D0D2C6BCE8_t.webp"
     },
     {
       "index": 186,
       "name": "Turismo Social · 03",
-      "group": "saude",
+      "group": "esporte",
       "thumb": "media/panorama_0E22B31F_1235_AB65_41A6_4BF6051F8FE0_t.webp"
     },
     {
@@ -1486,6 +1490,48 @@
       "name": "Jardim Lateral B",
       "group": "entrada",
       "thumb": "media/panorama_DBD9CD1A_C1F4_30EB_41C8_2BC1B4BEAA91_t.webp"
+    },
+    {
+      "index": 190,
+      "name": "Escola Sesc - Hall e Refeitório - 01",
+      "group": "educacao",
+      "thumb": "media/panorama_CD073DAF_C279_2D33_41E6_429C6496975D_t.webp"
+    },
+    {
+      "index": 191,
+      "name": "Escola Sesc - Hall e Refeitório - 02",
+      "group": "educacao",
+      "thumb": "media/panorama_CF25438C_C279_D5F5_41D7_0CD7E72C9D1F_t.webp"
+    },
+    {
+      "index": 192,
+      "name": "Escola Sesc - Hall e Refeitório - 03",
+      "group": "educacao",
+      "thumb": "media/panorama_CF27392B_C279_D533_41E7_9762BAB563F4_t.webp"
+    },
+    {
+      "index": 193,
+      "name": "Escola Sesc - Hall e Refeitório - 04",
+      "group": "educacao",
+      "thumb": "media/panorama_CF2770B4_C279_F315_41C0_FCC95CC4831E_t.webp"
+    },
+    {
+      "index": 194,
+      "name": "Escola Sesc - Hall e Refeitório - 05",
+      "group": "educacao",
+      "thumb": "media/panorama_CF277A47_C279_F773_41D8_8AB919FE4A4E_t.webp"
+    },
+    {
+      "index": 195,
+      "name": "Escola Sesc - Hall e Refeitório - 06",
+      "group": "educacao",
+      "thumb": "media/panorama_CF26A3A9_C279_D53F_41DB_5D09F27F3F84_t.webp"
+    },
+    {
+      "index": 196,
+      "name": "Escola Sesc - Hall e Refeitório - 07",
+      "group": "educacao",
+      "thumb": "media/panorama_CF2689E9_C279_D53F_41C4_A77CAF723904_t.webp"
     }
   ]
 }
