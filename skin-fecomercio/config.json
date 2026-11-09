@@ -1,5 +1,5 @@
 {
-  "version": "5.0-ca-palmas-revisao-cliente-20261109-r1",
+  "version": "5.1-ca-palmas-galeria-jardim-20261109-r1",
   "brand": {
     "systemName": "SISTEMA FECOMÉRCIO",
     "tourName": "Centro de Atividades Sesc Palmas, Tocantins - TOUR 360°",
@@ -98,6 +98,14 @@
         {
           "label": "Corredor · 01",
           "index": 147
+        },
+        {
+          "label": "Jardim Lateral A",
+          "index": 188
+        },
+        {
+          "label": "Jardim Lateral B",
+          "index": 189
         }
       ]
     },
@@ -250,6 +258,10 @@
         {
           "label": "Teatro · 01",
           "index": 173
+        },
+        {
+          "label": "Galeria de Artes",
+          "index": 187
         }
       ]
     },
@@ -1456,6 +1468,24 @@
       "name": "Turismo Social · 03",
       "group": "saude",
       "thumb": "media/panorama_0E22B31F_1235_AB65_41A6_4BF6051F8FE0_t.webp"
+    },
+    {
+      "index": 187,
+      "name": "Galeria de Artes",
+      "group": "cultura",
+      "thumb": "media/panorama_DDD60111_C1F4_30F9_41D1_4E78B0F4A2DB_t.webp"
+    },
+    {
+      "index": 188,
+      "name": "Jardim Lateral A",
+      "group": "entrada",
+      "thumb": "media/panorama_DBD91705_C1F4_30D9_41D0_CAB3C51293E0_t.webp"
+    },
+    {
+      "index": 189,
+      "name": "Jardim Lateral B",
+      "group": "entrada",
+      "thumb": "media/panorama_DBD9CD1A_C1F4_30EB_41C8_2BC1B4BEAA91_t.webp"
     }
   ]
 }
